@@ -1,79 +1,17 @@
 ---
 title: Strike Force For Change
-timezone: GMT-06:00
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
     output: true
   representatives:
     title: Representatives
-    output: false
-  successes:
-    title: Successes
     output: true
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    is featured: false
-    main-image: 
-    call-script-text: 
-    event-start-date: 
-    event-end-date: 
-    Location: 
-    RSVP-link: 
-    layout: post
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: representatives
-  values:
-    phone-numbers:
-      office-name: "(000) 000-0000"
-    website: 
-- scope:
-    path: ''
-    type: successes
-  values:
-    is featured: false
-    main-image: 
-    layout: media-item
-- scope:
-    path: ''
-    type: calendar
-  values:
-    embed-code: 
-- scope:
-    path: ''
-    type: becomeAMember
-  values:
-    main-image: 
-    mailchimp-form-embed: 
-subtitle: Strike Force For Change, An Indivisible Group.
-email: StrikeForceForChange@gmail.com
-baseurl: 
-url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/IMG_0028.jpg"
-member-count: '100'
-footer-title: Informed. Engaged. Active. We believe that facts matter.
-markdown: kramdown
-gems:
-- jekyll-feed
-- jekyll-paginate
-- jekyll-sitemap
-paginate: 10
-paginate_path: "/blog/page:num/"
-exclude:
-- Gemfile
-- Gemfile.lock
-google_analytics: 
+email: strikeforceforchange@gmail.com
+Subtitle: An Indivisible Group
+background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
+Field name: 
