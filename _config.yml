@@ -63,9 +63,9 @@ baseurl:
 url: 
 twitter_username: 
 facebook_username: 
-background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
+background-image: "/uploads/IMG_0028.jpg"
 member-count: '100'
-footer-title: Informed. Engaged. Active. We believe the facts matter.
+footer-title: Informed. Engaged. Active. We believe that facts matter.
 markdown: kramdown
 gems:
 - jekyll-feed
