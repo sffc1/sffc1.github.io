@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="clearfix spacer"></div>
+
+  <h1>Become A Member</h1>
+
+  <div class="clearfix spacer"></div>
+
+  <!-- BODY CONTENT -->
+  <div class="row">
+
+    <!-- STEPS -->
+    <div class="col-sm-7 col-md-8">
+
+      <hr>
+      <div class="media">
+        <span class="icon-disc d-flex mr-4"><span class="disc">1</span></span>
+
+        <div class="media-body">
+          <h4 class="mt-2 mb-2">Join {{ site.title | escape }}</h4>
+          <p class="card-text">Join our email list to get email updates on meeting times, announcements, action items, and more.</p>
+          {% if page.mailchimp-form-embed %}
+          <div class="row">
+            <div class="col-sm-8 col-md-6">
+
+                {{ page.mailchimp-form-embed }}
+
+             </div>
+           </div>
+           {% else %}
+           <p class="text-danger">No mailing list set up yet. Add one by logging into Siteleaf, editing this page, and pasting one into the <em>mailchimp-form-embed</em> field.</p>
+           {% endif %}
+        </div>
+
+      </div>
+
+      <hr>
+      <div class="media">
+        <span class="icon-disc d-flex mr-4"><span class="disc">2</span></span>
+        <div class="media-body">
+          <h4 class="mt-2 mb-2">Attend a Meeting</h4>
+          <p class="card-text">Take part in upcoming meetings, events, and town halls.</p>
+          <p><a href="/calendar.html" class="btn btn-primary">See Upcoming Events</a></p>
+        </div>
+      </div>
+
+      <hr>
+      <div class="media">
+        <span class="icon-disc d-flex mr-4"><span class="disc">3</span></span>
+        <div class="media-body">
+          <h4 class="mt-2 mb-2">Take Action</h4>
+          <p class="card-text">Review the list of current actions and get started.</p>
+          <p><a href="/actions.html" class="btn btn-danger">Browse Actions</a></p>
+        </div>
+      </div>
+
+      <hr>
+      <div class="media">
+        <span class="icon-disc d-flex mr-4"><span class="disc">4</span></span>
+        <div class="media-body">
+          <h4 class="mt-2 mb-2">Read the Indivisible Guide</h4>
+          <p class="card-text">A practical guide to resisting the Trump agenda. Former congressional staffers reveal best practices for making Congress listen.</p>
+          <p><a href="https://www.indivisibleguide.com/" class="btn btn-primary">Read The Guide</a></p>
+        </div>
+      </div>
+
+      <hr>
+      <div class="media">
+        <span class="icon-disc d-flex mr-4"><span class="disc">5</span></span>
+        <div class="media-body">
+          <h4 class="mt-2 mb-2">Invite Your Friends</h4>
+          <p class="card-text">The more members we have, the more impact our local chapter has on the national agenda.</p>
+          <div class="clearfix share-btns d-flex flex-row mt-4">
+            <div>
+              <a class="twitter-share-button p2 ml-4" data-size="large"
+                href="https://twitter.com/intent/tweet?text=Join {{ site.title | escape }} today at&url={{ site.url }}">
+              Tweet</a>
+            </div>
+            <div class="ml-4">
+              <div class="fb-share-button mt-0" data-href="" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
+            </div>
+            <div class="ml-4"><a href="mailto:?subject=Join%20{{ site.title | escape }}&body={{ site.url }}" class="btn btn-sm btn-primary">Email</a></p></div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- BIOGRAPHY -->
+
+    <div class="col-sm-5 col-md-4">
+      <hr>
+      <h5>Who We Are</h5>
+      {{ page.content | markdownify }}
+    </div>
+
+  </div>
+
+
+
+</div><!-- END CONTAINER -->
+
+<div class="clearfix spacer"></div>
+<div class="clearfix spacer"></div>
