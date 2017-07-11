@@ -1,6 +1,11 @@
 ---
-title: Congressman Bobby Rush
+title: Congressman Bobby Rush - Illinois 1st District
 date: 2017-07-09 12:50:00 -05:00
+phone-numbers:
+  Chicago Office Phone: 773-224-6500
+  Chicago Office FAX: 773-224-9624
+  Midlothian Office Phone: 708-385-9550
+  Midlothian Office FAX: 708-385-3860
 ---
 
 Chicago Office:  
