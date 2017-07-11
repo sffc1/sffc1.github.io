@@ -12,7 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-Subtitle: |-
+subtitle: |-
   An Indivisible Group
   Grassroots Straight-Up
 background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
