@@ -11,6 +11,7 @@ event-start-date: 2017-07-11 18:00:00 -05:00
 Location: Frankfort Public Library District, 21119 S Pfeiffer Rd, Frankfort, IL 60423,
   USA
 RSVP-link: https://actionnetwork.org/events/screening-of-documentary-film-equal-means-equal?source=facebook
+published: true
 layout: post
 ---
 
