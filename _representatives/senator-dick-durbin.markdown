@@ -5,8 +5,10 @@ published: true
 is featured: true
 phone-numbers:
   Chicago Office Address:
-  - "230 S. Dearborn Street\nSuite 3892 \nChicago, IL 60604 \n\x038:30 am to 5:00
-    pm"
+  - 230 S. Dearborn Street
+  - 'Suite 3892 '
+  - 'Chicago, IL 60604 '
+  - 8:30 am to 5:00 pm
   Chicago Office Phone: 312-353-4952
   Chicago FAX: 312-353-0150
 ---
