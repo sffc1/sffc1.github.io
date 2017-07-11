@@ -1,6 +1,6 @@
 ---
 title: You Are Invited to a Gubernatorial Candidates Forum
-date: 2017-07-10 14:49:00 -05:00
+date: 2017-07-22 22:10:00 -05:00
 categories:
 - event
 tags:
