@@ -8,7 +8,7 @@ tags:
 published: true
 is featured: false
 Location: Flossmoor Public Library, 1000 Sterling Ave, Flossmoor, IL 60422
-event-start-date: 2017-07-20 00:00:00 -05:00
+event-start-date: 2017-07-20 18:30:00 -05:00
 event-end-date: 2017-07-20 20:30:00 -05:00
 layout: post
 ---
