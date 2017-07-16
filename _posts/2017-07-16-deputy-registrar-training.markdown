@@ -10,6 +10,7 @@ is featured: false
 event-start-date: 2017-07-21 10:00:00 -05:00
 event-end-date: 2017-07-21 12:00:00 -05:00
 Location: 'Park Forest Library - 400 Lakewood Blvd; Park Forest, IL '
+page-date: 
 ---
 
 FRIDAY, July 21, 2017 
