@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 published: true
-is featured: false
+is featured: true
 event-start-date: 2017-07-22 10:00:00 -05:00
 event-end-date: 2017-07-22 12:00:00 -05:00
 Location: 'Prairie State College, 202 S. Halsted Street, Chicago Heights, IL 60411 '
