@@ -12,7 +12,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: Strike Force For Change, An Indivisible Group  -  Grassroots Straight-Up
+subtitle: Strike Force For Change, An Indivisible Group
 background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
 email: strikeforceforchange@gmail.com
 facebook_username: https://www.facebook.com/groups/780265365460064/
+twitter_username: 
+footer-title: Grassroots, Straight-Up
+base-url: 
+url: 
+member-count: 100
+paginate: 10
