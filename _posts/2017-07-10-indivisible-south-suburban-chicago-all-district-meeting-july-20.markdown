@@ -1,8 +1,6 @@
 ---
 title: 'Indivisible South Suburban Chicago All District Meeting: July 20'
 date: 2017-07-10 16:01:00 -05:00
-categories:
-- meeting
 tags:
 - meeting
 published: true
