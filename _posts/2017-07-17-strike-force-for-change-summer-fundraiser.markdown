@@ -1,7 +1,9 @@
 ---
 title: Strike Force For Change Summer Fundraiser
 date: 2017-07-17 12:40:00 -05:00
-link: https://www.customink.com//fundraising/SFFCsummer
+website: https://www.customink.com//fundraising/SFFCsummer
+published: true
+is featured: false
 layout: post
 ---
 
