@@ -6,7 +6,6 @@ published: true
 is featured: false
 url: https://www.customink.com//fundraising/SFFCsummer
 RSVP-link: https://www.customink.com//fundraising/SFFCsummer
-Field name: 
 layout: actions
 ---
 
