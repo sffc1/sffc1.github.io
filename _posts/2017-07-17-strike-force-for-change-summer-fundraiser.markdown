@@ -4,7 +4,7 @@ date: 2017-07-17 12:40:00 -05:00
 website: https://www.customink.com//fundraising/SFFCsummer
 published: true
 is featured: false
-url: https://www.customink.com//fundraising/SFFCsummer
+link: https://www.customink.com//fundraising/SFFCsummer
 RSVP-link: https://www.customink.com//fundraising/SFFCsummer
 main-image: "/uploads/SFFCFundraiser1.jpeg"
 layout: page
