@@ -1,11 +1,11 @@
 ---
 title: You Are Invited to a Gubernatorial Candidates Forum
 date: 2017-07-22 22:10:00 -05:00
+published: true
 categories:
 - event
 tags:
 - meeting
-published: true
 is featured: true
 event-start-date: 2017-07-22 10:00:00 -05:00
 event-end-date: 2017-07-22 12:00:00 -05:00
