@@ -1,12 +1,12 @@
 ---
 title: You Are Invited to a Gubernatorial Candidates Forum
 date: 2017-07-22 22:10:00 -05:00
-published: true
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 event-start-date: 2017-07-22 10:00:00 -05:00
 event-end-date: 2017-07-22 12:00:00 -05:00
 Location: 'Prairie State College, 202 S. Halsted Street, Chicago Heights, IL 60411 '
