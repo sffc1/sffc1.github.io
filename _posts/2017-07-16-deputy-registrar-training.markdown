@@ -1,7 +1,7 @@
 ---
 title: Deputy Registrar Training
 date: 2017-07-16 16:01:00 -05:00
-published: true
+published: false
 categories:
 - event
 tags:
