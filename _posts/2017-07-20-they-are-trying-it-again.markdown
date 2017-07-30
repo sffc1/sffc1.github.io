@@ -1,13 +1,13 @@
 ---
 title: They are trying it again
 date: 2017-07-20 13:42:00 -05:00
+published: false
 categories:
 - action
 tags:
 - call now
 - confirmation hearing
-is featured: true
-published: true
+is featured: false
 main-image: 
 call-script-text: 
 event-start-date: 
