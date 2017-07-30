@@ -1,11 +1,11 @@
 ---
 title: 'Indivisible South Suburban Chicago All District Meeting: July 20'
 date: 2017-07-10 16:01:00 -05:00
+published: true
 categories:
 - event
 tags:
 - meeting
-published: true
 is featured: false
 Location: Flossmoor Public Library, 1000 Sterling Ave, Flossmoor, IL 60422
 event-start-date: 2017-07-20 18:30:00 -05:00
