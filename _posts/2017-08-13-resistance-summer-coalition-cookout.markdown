@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 is published: true
 main-image: "/uploads/CoalitionCookoout2.jpeg"
 call-script-text: 
