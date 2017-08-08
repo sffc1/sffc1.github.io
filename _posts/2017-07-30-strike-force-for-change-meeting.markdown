@@ -1,12 +1,13 @@
 ---
 title: Strike Force For Change Meeting
 date: 2017-07-30 17:41:00 -05:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/PurpleSmashTshirtOrchdSingle.jpeg"
 call-script-text: 
 event-start-date: 2017-08-03 19:00:00 -05:00
