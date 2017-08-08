@@ -17,6 +17,7 @@ Location: Grande Prairie Public Library, 3479 W. 183rd Street, Hazel Crest, IL, 
 RSVP-link: 
 Website: 
 link: 
+page-date: 
 ---
 
 July was very busy and we had several successes. At this meeting, let's take a moment to reflect on our successes. 
