@@ -2,7 +2,6 @@
 title: August Recess Is Coming!
 date: 2017-07-30 16:31:00 -05:00
 categories:
-- jekyll
 - update
 is featured: true
 is published: true
