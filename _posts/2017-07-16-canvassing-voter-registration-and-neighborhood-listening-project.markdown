@@ -1,9 +1,9 @@
 ---
 title: Canvassing - Voter Registration and Neighborhood Listening Project
 date: 2017-07-16 16:30:00 -05:00
+published: false
 categories:
 - event
-published: true
 is featured: false
 event-start-date: 2017-07-29 08:30:00 -05:00
 event-end-date: 2017-07-29 15:00:00 -05:00
