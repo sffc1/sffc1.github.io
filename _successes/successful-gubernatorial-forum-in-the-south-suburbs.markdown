@@ -3,7 +3,7 @@ title: Successful Gubernatorial Forum in the South Suburbs
 date: 2017-07-30 18:43:00 -05:00
 position: 3
 is featured: false
-is published: true
+is published: false
 main-image: "/uploads/GovnrForumPanel2017.png"
 layout: media-item
 ---
