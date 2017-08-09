@@ -1,6 +1,6 @@
 ---
 title: Wine Tasting and Casino Fundraiser
-date: 2017-08-25 19:55:00 -05:00
+date: 2017-02-15 19:55:00 -06:00
 categories:
 - event
 tags:
