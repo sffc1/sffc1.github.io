@@ -1,6 +1,6 @@
 ---
 title: Resistance Summer Coalition Cookout
-date: 2017-08-13 18:24:00 -05:00
+date: 2017-03-15 18:24:00 -05:00
 categories:
 - event
 tags:
