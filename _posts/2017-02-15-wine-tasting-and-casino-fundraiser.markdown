@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/MP900448734.JPG"
 call-script-text: 
 event-start-date: 2017-08-25 08:00:00 -05:00
