@@ -1,6 +1,6 @@
 ---
 title: August Recess Is Coming!
-date: 2017-07-30 16:31:00 -05:00
+date: 2017-02-01 16:31:00 -06:00
 categories:
 - update
 is featured: true
@@ -13,6 +13,7 @@ Location:
 RSVP-Link: 
 website: 
 link: 
+page-date: 2017-08-01 12:00:00 -05:00
 layout: post
 ---
 
