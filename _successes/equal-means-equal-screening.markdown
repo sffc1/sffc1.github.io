@@ -2,9 +2,9 @@
 title: Equal Means Equal Screening
 date: 2017-07-30 19:45:00 -05:00
 position: 7
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_0195.JPG"
-image: 
+is published: false
 layout: media-item
 ---
 
