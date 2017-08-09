@@ -7,8 +7,9 @@ tags:
 - meeting
 website: https://www.customink.com//fundraising/SFFCsummer
 is published: true
-is featured: false
+is featured: true
 link: https://www.customink.com//fundraising/SFFCsummer
+event-start-date: 2017-07-19 00:00:00 -05:00
 event-end-date: 2017-08-31 00:00:00 -05:00
 RSVP-link: https://www.customink.com//fundraising/SFFCsummer
 main-image: "/uploads/SFFCFundraiser1.jpeg"
