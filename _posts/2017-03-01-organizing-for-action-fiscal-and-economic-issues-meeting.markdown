@@ -1,6 +1,6 @@
 ---
 title: Organizing For Action Fiscal and Economic Issues Meeting
-date: 2017-08-23 19:07:00 -05:00
+date: 2017-03-01 19:07:00 -06:00
 categories:
 - event
 tags:
