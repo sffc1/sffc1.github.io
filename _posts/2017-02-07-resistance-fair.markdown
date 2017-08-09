@@ -1,6 +1,10 @@
 ---
 title: Resistance Fair
 date: 2017-02-07 21:38:00 -06:00
+categories:
+- event
+tags:
+- meeting
 is featured: false
 is published: false
 main-image: 
