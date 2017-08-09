@@ -19,11 +19,7 @@ link:
 layout: post
 ---
 
-## Single Payer - 
-##Efficiency, 
-##One Fund, 
-##Saves Time and Money, 
-##Health Insurance for everyone
+## Single Payer - Efficiency, One Fund, Saves Time and Money, Health Insurance for everyone
 
 Presentation about Single payer Insurance by ISSC member Ed Cole then a Q&A.  
 Doors open at 6:30. 
