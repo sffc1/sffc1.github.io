@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 website: https://www.customink.com//fundraising/SFFCsummer
-is published: false
+is published: true
 is featured: false
 link: https://www.customink.com//fundraising/SFFCsummer
 event-end-date: 2017-08-31 00:00:00 -05:00
