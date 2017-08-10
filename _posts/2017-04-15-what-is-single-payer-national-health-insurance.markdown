@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 is featured: true
-published: true
+is published: true
 main-image: "/uploads/iu.jpeg"
 call-script-text: 
 event-start-date: 2017-08-10 18:30:00 -05:00
