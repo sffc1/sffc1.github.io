@@ -12,7 +12,7 @@ main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: 
 event-start-date: 2017-08-28 17:00:00 -05:00
 event-end-date: 2017-08-28 19:00:00 -05:00
-Location: 
+Location: 'Peter Roskam''s Barrington Office, 200 S Hough St, Barrington, IL 60010 '
 RSVP-link: 'https://www.resistancerecess.com/event/aug-resistance-recess-events/13733/signup/?akid=&zip=&source= '
 Website: 
 link: 
@@ -26,7 +26,7 @@ Where:
 Peter Roskam's Barrington Office
 200 S Hough St
 Barrington, IL 60010
-Show map
+
 Host notes:
 PLEASE bring an American flag to wave with your sign!
 Host:
