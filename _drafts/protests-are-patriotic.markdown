@@ -31,3 +31,5 @@ Host notes:
 PLEASE bring an American flag to wave with your sign!
 Host:
 EveeJ Malone
+
+Wear Your Strike Force For Change Protest t-shirts...  https://www.customink.com//fundraising/SFFCsummer 
