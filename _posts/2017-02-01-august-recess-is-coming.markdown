@@ -1,5 +1,5 @@
 ---
-title: August Recess Is Coming!
+title: August Recess Is Here!
 date: 2017-02-01 16:31:00 -06:00
 categories:
 - update
@@ -19,12 +19,12 @@ layout: post
 
 Our Members of Congress will be back in our districts and holding town halls. 
 
-At the this Thursday's Strike Force For Change meeting, we will discuss options and plans on how to engage our Members of Congress (MoC), specifically the Democratic ones at their upcoming town halls. 
+Check this webpage often as we will list options, call scripts and actions (signs, coordinated tweets, postcards, letters to editors, etc.) on how to engage our Members of Congress (MoC), specifically the Democratic ones, at their upcoming town halls. 
 
 We need to push the Democrats to demand to include specific things while negotiating with the Republicans about fixing the ACA: 
 
-1. include a public option like Medicare-For-All, 
+1. include a public option, 
 2. restore an adequate Risk corridor and, 
-3. change the law to allow the federal government and/or the states to negotiate lower drug prices for Medicare and the Healthcare exchanges. 
+3. change the law to allow the federal government and/or the states to negotiate lower drug prices for Medicare and the Healthcare exchanges.  
 
-Let’s plan our actions (Signs, coordinated Tweets, etc.) for the August Town Halls and let’s all squeeze our Democratic Members of Congress and force them to push for what we really want! 
+As they negotiate the budget and the debt-limit, no financial legislation will move forward without Democratic votes. Let’s all put pressure on our Democratic Members of Congress and make them push for what we really want! 
