@@ -11,8 +11,8 @@ main-image: "/uploads/MP900448734.JPG"
 call-script-text: 
 event-start-date: 2017-08-25 08:00:00 -05:00
 event-end-date: 2017-08-25 19:00:00 -05:00
-Location: 'Holiday Inn Chicago Matteson Conference Center, 500 Holiday Plaza Dr, Matteson,
-  IL  60443, United States '
+Location: 'Bus Departs  - Holiday Inn Chicago Matteson Conference Center, 500 Holiday
+  Plaza Dr, Matteson, IL  60443, United States '
 RSVP-link: https://www.facebook.com/DemocraticWomenSouthSuburbs/photos/gm.453762014979395/1534680643258887/?type=3&theater
 website: 
 link: 
@@ -25,7 +25,7 @@ layout: post
 
 Coach Bus departs from Holiday Inn Chicago Matteson Conference Center, 500 Holiday Plaza Dr, Matteson, IL  60443, United States
 
-8:00 AM - Returns 7:00 PM
+Bus Leaves at 8:00 AM - Returns 7:00 PM
 
 Tickets: $65.00  (Each attendee recieves $10 off your meal and $15 credit at the Casino)
 
