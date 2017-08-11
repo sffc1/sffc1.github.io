@@ -11,6 +11,7 @@ event-start-date:
 event-end-date: 
 RSVP-link: https://www.customink.com//fundraising/SFFCsummer
 main-image: "/uploads/SFFCFundraiser1.jpeg"
+embed-code: 
 layout: post
 ---
 
