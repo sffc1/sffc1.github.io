@@ -39,6 +39,6 @@ VOTING RIGHTS:
 2. Restore the Voting Rights Act according to the new standards from the Supreme Court. 
 3. Request Congresswoman Kelly draft a letter, like several other MoC and State legislators have done, calling for Illinois' immediate withdrawal from Crosscheck and that Illinois refuse to send any data to the Trump Election Commission. 
 
-I am sure that we can think of more....
+I am sure that we can think of more.... wear your Strike Force For Change T-shirts... 
 
 Per Robin Kelly's invite the Small Group Discussion Topics include: Promoting public safety/combatting gun violence, preservation and promotion of quality health care, comprehensive economic development. 
