@@ -38,3 +38,5 @@ Where: The Cotillion Banquets
 
 Host notes:
 Bring your signs. We will be on public property near the street. Do not park in the Banquet Hall lot. There is a big lot next to it where you can park.
+
+Wear Your Strike Force For Change Protest t-shirts... https://www.customink.com//fundraising/SFFCsummer  
