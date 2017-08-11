@@ -81,4 +81,4 @@ We have two asks of the SBE:
 **We need you to call the Illinois State Board of Elections (SBE) at 217-782-4141;**
 when given the option, press 4 to connect to the Voter Registration Division. You will hear a recorded message that the Board plans to take this issue up at their August 22nd meeting. Continue the call until you speak with a person.
 
-The people answering the phones will tell you to email webmaster@elections.il.gov. That's great--do that, too (see our email script)! Emails will be counted and considered on August 22nd at their meeting, but in the meantime, we need them to hear us before the meeting. Calls get their attention! SEE SBE CALL SCRIPT BELOW. 
+The people answering the phones will tell you to email webmaster@elections.il.gov. That's great--do that, too (see our email script)! Emails will be counted and considered on August 22nd at their meeting, but in the meantime, we need them to hear us before the meeting. Calls get their attention! SEE SBE CALL SCRIPT ABOVE. 
