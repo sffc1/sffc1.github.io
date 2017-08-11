@@ -17,3 +17,5 @@ page-date:
 ---
 
 Check out the Strike Force For Change calendar page to see Outreach Events and Meet-ups to help register voters in the South Suburbs. Some sponsored by DWSS, by ISSC, by WCP, by AFSCME local 1866, etc. 
+
+Wear Your Strike Force For Change Protest t-shirts...  https://www.customink.com//fundraising/SFFCsummer  
