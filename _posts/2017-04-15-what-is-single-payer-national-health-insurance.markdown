@@ -1,12 +1,13 @@
 ---
 title: What is Single Payer National Health Insurance?
 date: 2017-04-15 17:09:00 -05:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/iu.jpeg"
 call-script-text: 
 event-start-date: 2017-08-10 18:30:00 -05:00
