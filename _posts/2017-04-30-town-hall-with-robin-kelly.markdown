@@ -37,6 +37,7 @@ GUN SAFETY REFORM:
 VOTING RIGHTS: 
 1. Restore the funding for the Federal Election Commision that combats voting machine hacking. 
 2. Restore the Voting Rights Act according to the new standards from the Supreme Court. 
+3. Request Congresswoman Kelly draft a letter, like several other MoC and State legislators have done, calling for Illinois' immediate withdrawal from Crosscheck and that Illinois refuse to send any data to the Trump Election Commission. 
 
 I am sure that we can think of more....
 
