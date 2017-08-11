@@ -1,5 +1,5 @@
 ---
-title: Town Hall with Robin Kelly
+title: Community Working Session with Robin Kelly
 date: 2017-04-30 12:00:00 -05:00
 categories:
 - event
