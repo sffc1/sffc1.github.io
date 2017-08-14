@@ -10,9 +10,9 @@ call-script-text:
 event-start-date: 
 event-end-date: 
 Location: 
-RSVP-Link: 
-website: 
-link: 
+RSVP-link: 
+base-url: 
+url: 
 page-date: 2017-08-01 12:00:00 -05:00
 layout: post
 ---
