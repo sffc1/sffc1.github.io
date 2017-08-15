@@ -6,20 +6,20 @@ categories:
 - event
 tags:
 - protest
-is featured: false
-is published: false
+is featured: true
+is published: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: 
 event-start-date: 2017-08-28 17:00:00 -05:00
 event-end-date: 2017-08-28 19:00:00 -05:00
 Location: 'Peter Roskam''s Barrington Office, 200 S Hough St, Barrington, IL 60010 '
 RSVP-link: 'https://www.resistancerecess.com/event/aug-resistance-recess-events/13733/signup/?akid=&zip=&source= '
-Website: 
+website: 
 link: 
 page-date: 2017-08-11 12:00:00 -05:00
+layout: post
 ---
 
-Protests are Patriotic!!
 When:
 Monday, August 28 at 5 p.m. (local time)
 Where:
@@ -32,4 +32,4 @@ PLEASE bring an American flag to wave with your sign!
 Host:
 EveeJ Malone
 
-Wear Your Strike Force For Change Protest t-shirts...  https://www.customink.com//fundraising/SFFCsummer 
+SFFC Members - Wear Your Strike Force For Change Protest t-shirts...  https://www.customink.com//fundraising/SFFCsummer 
