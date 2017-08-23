@@ -23,4 +23,4 @@ Presented by Women Leading the Way
 
 Women Candidates - Are You Ready To Win? 
 
-A workshop on running for office.  
+A workshop on running for office. All are invited! 
