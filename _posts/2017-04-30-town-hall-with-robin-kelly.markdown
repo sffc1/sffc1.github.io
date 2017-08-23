@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: 
 event-start-date: 2017-08-19 10:00:00 -05:00
