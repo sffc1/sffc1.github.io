@@ -1,6 +1,6 @@
 ---
 title: Women Running For Office Workshop
-date: 2017-08-23 14:06:00 -05:00
+date: 2017-03-14 14:06:00 -05:00
 categories:
 - event
 tags:
