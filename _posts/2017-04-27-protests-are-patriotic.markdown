@@ -1,13 +1,14 @@
 ---
 title: Protests Are Patriotic!!
 date: 2017-04-27 13:06:00 -05:00
+published: false
 categories:
 - action
 - event
 tags:
 - protest
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: 
 event-start-date: 2017-08-28 17:00:00 -05:00
@@ -19,6 +20,8 @@ link:
 page-date: 2017-08-11 12:00:00 -05:00
 layout: post
 ---
+
+
 
 When:
 Monday, August 28 at 5 p.m. (local time)
