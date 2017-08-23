@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-is featured: false
+is featured: true
 is published: true
 main-image: "/uploads/16003070_609583045899209_2948895788957071170_n.png"
 call-script-text: 
