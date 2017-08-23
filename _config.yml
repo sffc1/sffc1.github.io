@@ -15,7 +15,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: Strike Force For Change, An Indivisible Group
+subtitle: Strike Force For Change, an Indivisible group
 background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
 email: strikeforceforchange@gmail.com
 facebook_username: SFFCIndivisible/
@@ -23,5 +23,5 @@ twitter_username:
 footer-title: Grassroots, Straight-Up
 base-url: 
 url: 
-member-count: 100
+member-count: 105
 paginate: 10
