@@ -7,7 +7,7 @@ tags:
 - meeting
 is featured: true
 is published: true
-main-image: 
+main-image: "/uploads/RedWhiteAndBrew.png"
 call-script-text: 
 event-start-date: 2017-08-26 16:00:00 -05:00
 event-end-date: 2017-08-26 18:00:00 -05:00
