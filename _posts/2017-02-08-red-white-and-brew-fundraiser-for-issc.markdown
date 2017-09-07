@@ -1,18 +1,17 @@
 ---
 title: Red, White and Brew Fundraiser for ISSC
 date: 2017-02-08 21:28:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/RedWhiteAndBrew.png"
-call-script-text: 
 event-start-date: 2017-08-26 16:00:00 -05:00
 event-end-date: 2017-08-26 18:00:00 -05:00
 Location: Evil Horse Brewing Company, 1338 Main St, Crete, IL 60417, United States
-RSVP-link: 
 Website: 
 link: 
 page-date: 2017-08-26 12:00:00 -05:00
