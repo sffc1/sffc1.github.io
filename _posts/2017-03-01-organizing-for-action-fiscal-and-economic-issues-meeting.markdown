@@ -1,14 +1,13 @@
 ---
 title: Organizing For Action Fiscal and Economic Issues Meeting
 date: 2017-03-01 19:07:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is published: false
 main-image: "/uploads/16003070_609583045899209_2948895788957071170_n.png"
-call-script-text: 
 event-start-date: 2017-08-23 19:00:00 -05:00
 event-end-date: 2017-08-23 22:00:00 -05:00
 Location: Schaumburg Township District Library, 130 S Roselle Rd, Schaumburg, IL  60193,
