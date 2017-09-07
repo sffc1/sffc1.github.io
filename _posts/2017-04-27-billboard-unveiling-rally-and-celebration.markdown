@@ -1,15 +1,15 @@
 ---
 title: Billboard Unveiling Rally and Celebration
 date: 2017-04-27 12:50:00 -05:00
+published: false
 categories:
 - action
 - event
 tags:
 - protest
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
-call-script-text: 
 event-start-date: 2017-08-29 17:00:00 -05:00
 event-end-date: 2017-08-29 19:00:00 -05:00
 Location: 33W461 Roosevelt Rd., West Chicago, IL 60185
