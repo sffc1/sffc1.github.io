@@ -1,14 +1,13 @@
 ---
 title: Resistance Fair
 date: 2017-02-07 21:38:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
 is featured: false
 is published: false
-main-image: 
-call-script-text: 
 event-start-date: 2017-08-26 10:00:00 -05:00
 event-end-date: 2017-08-26 15:00:00 -05:00
 Location: Holiday Inn Hotel & Suites Bolingbrook, 205 Remington Blvd, Bolingbrook,

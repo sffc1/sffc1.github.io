@@ -1,14 +1,14 @@
 ---
 title: Wine Tasting and Casino Fundraiser
 date: 2017-02-15 19:55:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/MP900448734.JPG"
-call-script-text: 
 event-start-date: 2017-08-25 08:00:00 -05:00
 event-end-date: 2017-08-25 19:00:00 -05:00
 Location: 'Bus Departs  - Holiday Inn Chicago Matteson Conference Center, 500 Holiday

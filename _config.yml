@@ -15,6 +15,20 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    is featured: false
+    is published: 
+    main-image: 
+    call-script-text: 
+    event-start-date: 
+    event-end-date: 
+    Location: 
+    RSVP-link: 
+    layout: post
 subtitle: Strike Force For Change, an Indivisible group
 background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
 email: strikeforceforchange@gmail.com
@@ -24,4 +38,14 @@ footer-title: Grassroots, Straight-Up
 base-url: 
 url: 
 member-count: 107
+markdown: kramdown
+gems:
+- jekyll-feed
+- jekyll-paginate
+- jekyll-sitemap
 paginate: 10
+paginate_path: "/blog/page:num/"
+exclude:
+- Gemfile
+- Gemfile.lock
+google_analytics: 

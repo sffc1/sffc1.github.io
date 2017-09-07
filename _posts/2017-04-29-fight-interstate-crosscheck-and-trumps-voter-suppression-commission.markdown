@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - call now
+- update
 is featured: true
 is published: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
@@ -57,10 +58,6 @@ call-script-text: "**SBE CALL SCRIPT:** Hi, my name is ___________ and I'm a reg
   purpose. Those on the Commission have no regard for integrity in any way and have
   been shown in federal court to employ deceptive tactics to take away our right to
   vote.\n\n[YOUR NAME]\n[YOUR ZIPCODE]   "
-event-start-date: 
-event-end-date: 
-Location: 
-RSVP-link: 
 Website: 
 link: 
 page-date: 2017-08-11 10:55:00 -05:00
@@ -69,7 +66,7 @@ layout: post
 
 Help end Illinois' participation in Crosscheck and to apply pressure to the Illinois State Board of Elections to refuse to legitimize the so-called Presidential Advisory Commission on Election Integrity. We know that the true purpose of the Commission is to collect large quantities of data that they will manipulate to create misleading statistics to support the President's debunked claim that millions of illegal votes were cast in the last election.
 
-These actions are time sensitive in preparation for the State Election Board meeting on August 22nd!
+These actions are time sensitive in preparation for the State Election Board meeting on September 19th in Chicago!
 
 ACTIONS TO TAKE WITH THE STATE BOARD of ELECTIONS: 
 We have two asks of the SBE:
