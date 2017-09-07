@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - call now
+- update
 is featured: true
 is published: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
