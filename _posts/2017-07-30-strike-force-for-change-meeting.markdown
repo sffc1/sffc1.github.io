@@ -32,14 +32,14 @@ At the next Strike Force For Change meeting on this Thursday, September 7th, we 
 4.	discuss and plan for the  upcoming actions to help get people registered in the Fall for Obamacare,   
 4.	discuss and plan for our Spring campaign on gun violence and our Fall and Winter Actions/Events.  
 
-You will also have the chance to register for a **webinar hosted by Keith Ellison** and others on Tuesday, September 12th where we will discuss Tax Fairness to prevent massive tax cuts for millionaires and to learn more about how to engage in the Tax Fairness Campaign on a Local, State and Federal level, learn key talking points, etc. 
+You will also have the chance to register for a **webinar hosted by Keith Ellison** and others on Tuesday, September 12th where we will discuss Tax Fairness to prevent massive tax cuts for millionaires and to learn more about how to engage in the Tax Fairness Campaign on a Local, State and Federal level, learn key talking points, etc.  
 
 **Stand Up! Fight Back! Resist!** 
-Cordially,
-Dorothea Board
-DWSS Legislative Committee Chair
-Strike Force For Change, an Indivisible Group
-StrikeForceForChange@gmail.com
-StrikeForceForChange.com
+* Cordially,
+***Dorothea Board***
+DWSS Legislative Committee Chair, 
+Strike Force For Change, an Indivisible Group, 
+StrikeForceForChange@gmail.com, 
+StrikeForceForChange.com, 
 https://www.facebook.com/SFFCIndivisible/
 

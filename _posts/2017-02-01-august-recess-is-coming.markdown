@@ -1,16 +1,11 @@
 ---
 title: August Recess Is Here!
 date: 2017-02-01 16:31:00 -06:00
+published: false
 categories:
 - update
-is featured: true
-is published: true
-main-image: 
-call-script-text: 
-event-start-date: 
-event-end-date: 
-Location: 
-RSVP-link: 
+is featured: false
+is published: false
 base-url: 
 url: 
 page-date: 2017-08-01 12:00:00 -05:00
