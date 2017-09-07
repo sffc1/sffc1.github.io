@@ -13,9 +13,6 @@ event-end-date: 2017-08-23 22:00:00 -05:00
 Location: Schaumburg Township District Library, 130 S Roselle Rd, Schaumburg, IL  60193,
   United States
 RSVP-link: 'https://my.ofa.us/page/event/detail/actionplanningsession/gsfkkv '
-website: 
-link: 
-page-date: 2017-08-23 12:00:00 -05:00
 layout: post
 ---
 
