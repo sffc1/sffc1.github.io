@@ -1,15 +1,15 @@
 ---
 title: Resist Roskam Palatine Protest
 date: 2017-04-28 12:00:00 -05:00
+published: false
 categories:
 - action
 - event
 tags:
 - meeting
-is featured: true
-is published: true
+is featured: false
+is published: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
-call-script-text: 
 event-start-date: 2017-08-23 11:00:00 -05:00
 event-end-date: 2017-08-23 14:00:00 -05:00
 Location: The Cotillion Banquets, 360 S Creekside Dr,  Palatine, IL 60074
