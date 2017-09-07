@@ -21,7 +21,7 @@ defaults:
     type: posts
   values:
     is featured: false
-    is published:
+    is published: 
     main-image: 
     call-script-text: 
     event-start-date: 
