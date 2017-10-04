@@ -1,6 +1,6 @@
 ---
-title: Strike Force For Change
-timezone: America/Chicago
+title: Indivisible City
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -20,7 +20,6 @@ defaults:
     type: posts
   values:
     is featured: false
-    is published: 
     main-image: 
     call-script-text: 
     event-start-date: 
@@ -28,12 +27,54 @@ defaults:
     Location: 
     RSVP-link: 
     layout: post
-subtitle: Strike Force For Change, an Indivisible group
-background-image: "/uploads/shutterstock_PurpleLimeSmash.jpg"
-email: strikeforceforchange@gmail.com
-facebook_username: SFFCIndivisible/
-twitter_username: 
-footer-title: Grassroots, Straight-Up
-base-url: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: representatives
+  values:
+    phone-numbers:
+      office-name: "(000) 000-0000"
+    website: 
+- scope:
+    path: ''
+    type: successes
+  values:
+    is featured: false
+    main-image: 
+    layout: media-item
+- scope:
+    path: ''
+    type: calendar
+  values:
+    embed-code: 
+- scope:
+    path: ''
+    type: becomeAMember
+  values:
+    main-image: 
+    mailchimp-form-embed: 
+subtitle: We are thousands of local citizens resisting the Trump agenda through civic
+  action.
+email: 
+baseurl: 
 url: 
-member-count: 107
+twitter_username: 
+facebook_username: 
+background-image: "/uploads/31773994174_c2e5706218_k.jpg"
+member-count: 100
+footer-title: Spread the word. Help build a movement.
+markdown: kramdown
+gems:
+- jekyll-feed
+- jekyll-paginate
+- jekyll-sitemap
+paginate: 10
+paginate_path: "/blog/page:num/"
+exclude:
+- Gemfile
+- Gemfile.lock
+google_analytics: 

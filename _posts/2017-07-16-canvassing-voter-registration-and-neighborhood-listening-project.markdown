@@ -1,12 +1,12 @@
 ---
 title: Canvassing - Voter Registration and Neighborhood Listening Project
-date: 2017-07-16 16:30:00 -05:00
+date: 2017-07-16 21:30:00 Z
 published: false
 categories:
 - event
 is featured: false
-event-start-date: 2017-07-29 08:30:00 -05:00
-event-end-date: 2017-07-29 15:00:00 -05:00
+event-start-date: 2017-07-29 13:30:00 Z
+event-end-date: 2017-07-29 20:00:00 Z
 Location: Dunkin’ Donuts, 4632 Lincoln Highway, Matteson, IL
 call-script-text: 
 main-image: "/uploads/StrikeForceLogo1st.jpg"

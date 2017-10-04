@@ -1,6 +1,6 @@
 ---
 title: Congressman Bobby Rush (D-Illinois 1st District)
-date: 2017-07-09 12:50:00 -05:00
+date: 2017-07-09 17:50:00 Z
 phone-numbers:
   Chicago Office Phone: 773-224-6500
   Chicago Office FAX: 

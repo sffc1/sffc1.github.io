@@ -1,6 +1,6 @@
 ---
 title: Wine Tasting and Casino Fundraiser
-date: 2017-02-15 19:55:00 -06:00
+date: 2017-02-16 01:55:00 Z
 published: false
 categories:
 - event
@@ -9,14 +9,14 @@ tags:
 is featured: false
 is published: false
 main-image: "/uploads/MP900448734.JPG"
-event-start-date: 2017-08-25 08:00:00 -05:00
-event-end-date: 2017-08-25 19:00:00 -05:00
+event-start-date: 2017-08-25 13:00:00 Z
+event-end-date: 2017-08-26 00:00:00 Z
 Location: 'Bus Departs  - Holiday Inn Chicago Matteson Conference Center, 500 Holiday
   Plaza Dr, Matteson, IL  60443, United States '
 RSVP-link: https://www.facebook.com/DemocraticWomenSouthSuburbs/photos/gm.453762014979395/1534680643258887/?type=3&theater
 website: 
 link: 
-page-date: 2017-08-25 12:00:00 -05:00
+page-date: 2017-08-25 17:00:00 Z
 layout: post
 ---
 

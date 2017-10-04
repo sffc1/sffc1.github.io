@@ -1,7 +1,6 @@
 ---
 title: Senator Dick Durbin - (D-IL)
-date: 2017-07-09 12:41:00 -05:00
-published: true
+date: 2017-07-09 17:41:00 Z
 is featured: true
 phone-numbers:
   Chicago Office Phone: 312-353-4952

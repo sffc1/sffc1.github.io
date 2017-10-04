@@ -1,6 +1,6 @@
 ---
 title: August Recess Is Here!
-date: 2017-02-01 16:31:00 -06:00
+date: 2017-02-01 22:31:00 Z
 published: false
 categories:
 - update
@@ -8,7 +8,7 @@ is featured: false
 is published: false
 base-url: 
 url: 
-page-date: 2017-08-01 12:00:00 -05:00
+page-date: 2017-08-01 17:00:00 Z
 layout: post
 ---
 

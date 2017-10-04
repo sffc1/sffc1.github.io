@@ -1,6 +1,6 @@
 ---
 title: Women Running For Office Workshop
-date: 2017-02-06 14:06:00 -06:00
+date: 2017-02-06 20:06:00 Z
 published: false
 categories:
 - event
@@ -9,13 +9,13 @@ tags:
 is featured: false
 is published: false
 main-image: "/uploads/img_91641.jpg"
-event-start-date: 2017-08-29 18:00:00 -05:00
-event-end-date: 2017-08-29 20:00:00 -05:00
+event-start-date: 2017-08-29 23:00:00 Z
+event-end-date: 2017-08-30 01:00:00 Z
 Location: " Sargent Means Park, 20712 Western Ave, Olympia Fields, IL "
 website: 
 link: 
 url: 
-page-date: 2017-08-23 00:00:00 -05:00
+page-date: 2017-08-23 05:00:00 Z
 ---
 
 Presented by Women Leading the Way 

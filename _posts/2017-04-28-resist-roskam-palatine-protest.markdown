@@ -1,6 +1,6 @@
 ---
 title: Resist Roskam Palatine Protest
-date: 2017-04-28 12:00:00 -05:00
+date: 2017-04-28 17:00:00 Z
 published: false
 categories:
 - action
@@ -10,13 +10,13 @@ tags:
 is featured: false
 is published: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
-event-start-date: 2017-08-23 11:00:00 -05:00
-event-end-date: 2017-08-23 14:00:00 -05:00
+event-start-date: 2017-08-23 16:00:00 Z
+event-end-date: 2017-08-23 19:00:00 Z
 Location: The Cotillion Banquets, 360 S Creekside Dr,  Palatine, IL 60074
 RSVP-link: 'https://www.resistancerecess.com/event/aug-resistance-recess-events/13509/signup/?akid=&zip=&source= '
 Website: 
 link: 
-page-date: 2017-08-11 12:00:00 -05:00
+page-date: 2017-08-11 17:00:00 Z
 ---
 
 The tsunami of constituent activity prompted by the last two Resistance Recesses have been widely credited with building the power to delay the GOP’s vicious plan to take away health care from millions of Americans.

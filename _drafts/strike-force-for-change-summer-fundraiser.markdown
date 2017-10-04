@@ -1,6 +1,6 @@
 ---
 title: Strike Force For Change Summer Fundraiser
-date: 2017-01-15 12:40:00 -06:00
+date: 2017-01-15 18:40:00 Z
 categories:
 - update
 is featured: false

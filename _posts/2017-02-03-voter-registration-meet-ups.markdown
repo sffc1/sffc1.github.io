@@ -1,6 +1,6 @@
 ---
 title: Voter Registration Meet-ups
-date: 2017-02-02 22:10:00 -06:00
+date: 2017-02-03 04:10:00 Z
 categories:
 - update
 is featured: false

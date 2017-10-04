@@ -1,6 +1,6 @@
 ---
 title: Organizing For Action Fiscal and Economic Issues Meeting
-date: 2017-03-01 19:07:00 -06:00
+date: 2017-03-02 01:07:00 Z
 published: false
 categories:
 - event
@@ -8,8 +8,8 @@ tags:
 - meeting
 is published: false
 main-image: "/uploads/16003070_609583045899209_2948895788957071170_n.png"
-event-start-date: 2017-08-23 19:00:00 -05:00
-event-end-date: 2017-08-23 22:00:00 -05:00
+event-start-date: 2017-08-24 00:00:00 Z
+event-end-date: 2017-08-24 03:00:00 Z
 Location: Schaumburg Township District Library, 130 S Roselle Rd, Schaumburg, IL  60193,
   United States
 RSVP-link: 'https://my.ofa.us/page/event/detail/actionplanningsession/gsfkkv '

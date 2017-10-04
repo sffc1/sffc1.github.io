@@ -1,6 +1,6 @@
 ---
 title: Community Working Session with Robin Kelly
-date: 2017-04-30 12:00:00 -05:00
+date: 2017-04-30 17:00:00 Z
 published: false
 categories:
 - event
@@ -9,8 +9,8 @@ tags:
 is featured: false
 is published: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
-event-start-date: 2017-08-19 10:00:00 -05:00
-event-end-date: 2017-08-19 12:00:00 -05:00
+event-start-date: 2017-08-19 15:00:00 Z
+event-end-date: 2017-08-19 17:00:00 Z
 Location: Coles Elementary Language Academy, 8441 S Yates Blvd, Chicago, IL  60617,
   United States
 website: 

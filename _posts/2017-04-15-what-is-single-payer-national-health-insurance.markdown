@@ -1,6 +1,6 @@
 ---
 title: What is Single Payer National Health Insurance?
-date: 2017-04-15 17:09:00 -05:00
+date: 2017-04-15 22:09:00 Z
 published: false
 categories:
 - event
@@ -10,14 +10,14 @@ is featured: false
 is published: false
 main-image: "/uploads/iu.jpeg"
 call-script-text: 
-event-start-date: 2017-08-10 18:30:00 -05:00
-event-end-date: 2017-08-10 20:30:00 -05:00
+event-start-date: 2017-08-10 23:30:00 Z
+event-end-date: 2017-08-11 01:30:00 Z
 Location: Frankfort Public Library District, 21119 S Pfeiffer Rd, Frankfort, IL 60423,
   USA
 RSVP-link: 
 website: 
 link: 
-page-date: 2017-08-10 18:30:00 -05:00
+page-date: 2017-08-10 23:30:00 Z
 layout: post
 ---
 

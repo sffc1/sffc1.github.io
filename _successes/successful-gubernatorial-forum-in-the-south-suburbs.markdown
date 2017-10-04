@@ -1,6 +1,6 @@
 ---
 title: Successful Gubernatorial Forum in the South Suburbs
-date: 2017-07-30 18:43:00 -05:00
+date: 2017-07-30 23:43:00 Z
 position: 3
 is featured: false
 is published: false

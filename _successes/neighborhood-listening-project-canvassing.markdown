@@ -1,6 +1,6 @@
 ---
 title: Neighborhood Listening Project Canvassing
-date: 2017-07-30 19:05:00 -05:00
+date: 2017-07-31 00:05:00 Z
 position: 4
 is featured: false
 main-image: "/uploads/20170329_MoveOn_ResistanceSummerLogo_200x140-06.png"
