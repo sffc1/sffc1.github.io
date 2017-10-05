@@ -1,6 +1,6 @@
 ---
 title: New Founders Conference
-date: 2017-05-31 19:18:00 -05:00
+date: 2017-09-28 00:01:00 -05:00
 categories:
 - event
 tags:
