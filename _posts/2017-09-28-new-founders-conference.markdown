@@ -5,7 +5,8 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
+is published: true
 event-start-date: 2017-10-18 08:00:00 -05:00
 event-end-date: 2017-10-18 20:00:00 -05:00
 Location: 'UIC Forum, 725 W. Roosevelt Road, Chicago, IL '
