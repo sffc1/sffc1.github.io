@@ -4,11 +4,11 @@ date: 2017-09-01 20:59:00 -05:00
 tags:
 - update
 is featured: false
+is published: true
 main-image: "/uploads/Illinois.jpeg"
 event-start-date: 2017-11-01 00:00:00 -05:00
 event-end-date: 2017-12-15 23:59:00 -06:00
 RSVP-link: http://acasignups.net/2018
-is published: true
 ---
 
 ## November 1, 2017 to December 15, 2017
