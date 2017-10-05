@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - update
-is featured: true
+is featured: false
 event-start-date: 2017-11-01 00:00:00 -05:00
 event-end-date: 2017-12-15 23:59:00 -06:00
 RSVP-link: https://www.getcovered.illinois.gov/en
