@@ -1,7 +1,7 @@
 ---
 title: Indivisible South Suburban Chicago Meeting w Eleana  Saltzman, National Indivisible's
   Midwest Regional Field Rep
-date: 2017-06-30 18:56:00 -05:00
+date: 2017-09-30 18:56:00 -05:00
 categories:
 - event
 tags:
