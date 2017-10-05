@@ -1,16 +1,16 @@
 ---
 title: New Founders Conference
-date: 2017-09-28 00:01:00 -05:00
+date: 2017-09-28 20:01:00 -05:00
 categories:
 - event
 tags:
 - meeting
 is featured: false
-is published: true
 event-start-date: 2017-10-18 08:00:00 -05:00
 event-end-date: 2017-10-18 20:00:00 -05:00
 Location: 'UIC Forum, 725 W. Roosevelt Road, Chicago, IL '
 RSVP-link: http://www.newfoundersconference.com/
+is published: true
 ---
 
 The conference aims to bring in four types of groups: Consultants who want to be on the cutting edge of new tools and systems; Potential candidates who want to build change as part of their platform; Political and tech organizations that want to enter the ecosystem and network; Innovative activists who want to leap directly into tool building alongside some of the greatest leaders around.
