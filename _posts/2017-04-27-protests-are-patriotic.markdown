@@ -21,8 +21,6 @@ page-date: 2017-08-11 12:00:00 -05:00
 layout: post
 ---
 
-
-
 When:
 Monday, August 28 at 5 p.m. (local time)
 Where:
