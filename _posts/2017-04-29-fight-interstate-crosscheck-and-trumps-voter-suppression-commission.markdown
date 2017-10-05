@@ -1,12 +1,12 @@
 ---
 title: Fight Interstate Crosscheck and Trump's Voter Suppression Commission
-date: 2017-04-29 15:51:00 Z
+date: 2017-04-29 10:51:00 -05:00
 categories:
 - action
 tags:
 - call now
 - update
-is featured: true
+is featured: false
 is published: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: "**SBE CALL SCRIPT:** Hi, my name is ___________ and I'm a registered
@@ -60,7 +60,8 @@ call-script-text: "**SBE CALL SCRIPT:** Hi, my name is ___________ and I'm a reg
   vote.\n\n[YOUR NAME]\n[YOUR ZIPCODE]   "
 Website: 
 link: 
-page-date: 2017-08-11 15:55:00 Z
+page-date: 2017-08-11 10:55:00 -05:00
+Field name: 
 layout: post
 ---
 
