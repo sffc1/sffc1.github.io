@@ -1,6 +1,6 @@
 ---
 title: Strike Force For Change Meeting
-date: 2017-07-30 17:41:00 -05:00
+date: 2017-10-05 17:41:00 -05:00
 categories:
 - event
 tags:
