@@ -7,7 +7,7 @@ tags:
 - update
 is featured: false
 is published: true
-main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
+main-image: "/uploads/Illinois.jpeg"
 event-start-date: 2017-11-01 00:00:00 -05:00
 event-end-date: 2017-12-15 23:59:00 -06:00
 RSVP-link: http://acasignups.net/2018
