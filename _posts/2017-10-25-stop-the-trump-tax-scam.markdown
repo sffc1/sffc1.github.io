@@ -1,6 +1,10 @@
 ---
 title: Stop the Trump Tax Scam!
 date: 2017-10-25 11:03:00 -05:00
+categories:
+- action
+tags:
+- call now
 is featured: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: "Postcard/Phonecall Talking Points:  \n\nI am worried that Trump’s
