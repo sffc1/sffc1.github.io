@@ -1,7 +1,7 @@
 ---
 title: Our Lives On The Line Rally
-date: 2017-07-31 01:37:00 Z
-position: 5
+date: 2017-07-30 20:37:00 -05:00
+position: 7
 is featured: false
 main-image: "/uploads/OurLivesOnTheLineJuly29.jpeg"
 is published: false
