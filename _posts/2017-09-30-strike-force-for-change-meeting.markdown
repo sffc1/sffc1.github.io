@@ -1,17 +1,18 @@
 ---
 title: Strike Force For Change Meeting
 date: 2017-09-30 19:00:00 -05:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/StrikeForceLogo1st.jpg"
 event-start-date: 2017-10-05 19:00:00 -05:00
 event-end-date: 2017-10-05 20:30:00 -05:00
 Location: Grande Prairie Public Library, 3479 W. 183rd Street, Hazel Crest, IL, United
   States
-is published: true
+is published: false
 Website: 
 link: 
 page-date: 
