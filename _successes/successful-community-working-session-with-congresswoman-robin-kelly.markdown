@@ -1,10 +1,10 @@
 ---
 title: Successful Community Working Session with Congresswoman Robin Kelly
-date: 2017-07-29 17:18:00 Z
+date: 2017-11-01 12:18:00 -05:00
 is featured: false
-is published: true
 main-image: "/uploads/IMG_0287.JPG"
-page-date: 2017-08-19 15:00:00 Z
+is published: true
+page-date: 2017-08-19 10:00:00 -05:00
 layout: media-item
 ---
 
