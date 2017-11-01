@@ -1,16 +1,12 @@
 ---
 title: Voter Registration Meet-ups
-date: 2017-02-03 04:10:00 Z
+date: 2017-02-02 22:10:00 -06:00
+published: false
 categories:
 - update
 is featured: false
-is published: false
 main-image: "/uploads/resize.php.jpeg"
-call-script-text: 
-event-start-date: 
-event-end-date: 
-Location: 
-RSVP-link: 
+is published: false
 website: 
 link: 
 page-date: 
