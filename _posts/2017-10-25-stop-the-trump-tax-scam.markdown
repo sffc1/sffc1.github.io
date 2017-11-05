@@ -30,7 +30,7 @@ call-script-text: "Postcard/Phonecall Talking Points:  \n\nI am worried that Tru
   why do they need a huge tax cut? Will you commit to me, your constituent, that you
   will oppose any tax plan that cuts taxes for corporations or leaves corporate tax
   loopholes in place?\n"
-is published: false
+is published: true
 ---
 
 Tax Reform = A Trump Tax Scam to give Massive Tax Cuts to the Rich.  

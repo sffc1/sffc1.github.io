@@ -3,10 +3,10 @@ title: "#TrumpTaxScam Indivisible Week Of Action - November 6 - 10"
 date: 2017-10-26 21:16:00 -05:00
 categories:
 - action
-- event
 tags:
 - protest
 is featured: true
+main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 is published: true
 ---
 
