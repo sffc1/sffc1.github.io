@@ -33,3 +33,11 @@ You can also get Republican and Democratic Call Scripts Here:
 [REPUBLICAN](https://www.trumptaxscam.org/republican-call-script-to-stop-the-trump-tax-scam/) - https://www.trumptaxscam.org/republican-call-script-to-stop-the-trump-tax-scam/
 
 [DEMOCRATIC](https://www.trumptaxscam.org/democrat-call-script-to-stop-the-trump-tax-scam/) - https://www.trumptaxscam.org/democrat-call-script-to-stop-the-trump-tax-scam/ 
+
+Here are the top targets we've identified in Illinois: 
+
+IL-06: Peter Roskam; Sample ZipCodes 60185, 60010
+IL-12: Mike Bost; Sample Zip Codes 62002, 62864, 62269, 62901, 62040
+IL-13: Rodney Davis; Sample ZipCodes 61820, 62523, 62062, 61761, 62568, 62703
+IL-14: Randy Hultgren; Sample ZipCodes 60175, 60051
+IL-16: Adam Kinzinger; Sample ZipCodes 61350, 60970, 61107
