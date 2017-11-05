@@ -6,6 +6,7 @@ categories:
 tags:
 - protest
 is featured: true
+main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 is published: true
 ---
 
