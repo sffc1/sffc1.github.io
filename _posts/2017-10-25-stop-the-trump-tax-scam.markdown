@@ -35,3 +35,11 @@ is published: false
 
 Tax Reform = A Trump Tax Scam to give Massive Tax Cuts to the Rich.  
 Here’s the first thing to know: this is not going to be true tax reform. Calling it “tax reform” suggests they intend to close corporate loopholes or address the growing wealth inequality that the current tax code fuels. But that’s not what Republicans have in mind. Instead, they want tax cuts for the wealthy and corporations paid for by taking away Medicare, Medicaid, and education funding. The problem is, their tax cuts are geared almost exclusively for the wealthy and corporations, leaving the middle class falling further behind with barely a token reduction in their taxes—just enough to trick you into falling for it. 
+
+After you’ve planned your event, light up those phone lines! Start making calls. Tell your MoCs how you feel. Try to get them on the record about this bill. Make sure they know where you stand and that you’ll be watching where they stand. Click on the MAKE CALLS TO STOP THE TRUMP TAX SCAM post on the main Strike Force For Change page to see some Phone/Postcard scripts. 
+
+You can also get Republican and Democratic Call Scripts Here:
+
+REPUBLICAN - https://www.trumptaxscam.org/republican-call-script-to-stop-the-trump-tax-scam/
+
+DEMOCRATIC - https://www.trumptaxscam.org/democrat-call-script-to-stop-the-trump-tax-scam/ 
