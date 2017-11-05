@@ -20,7 +20,7 @@ Spite is not a healthcare policy. Just after last week's congressional vote fail
 If you want to help get people enrolled, go to The Indivisible ACA Signup Project at:  
 Protect Our Care - http://acasignups.net/2018 
 
-https://getcovered.illinois.gov/en
+[https://getcovered.illinois.gov/en](https://getcovered.illinois.gov/en)
 Click on Get An Appointment Button!  
 
 Ask Governor Rauner to spend money on advertising for the Illinois GetCovered Open Enrollment period. 
