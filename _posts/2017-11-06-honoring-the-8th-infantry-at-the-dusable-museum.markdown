@@ -4,12 +4,13 @@ title: Honoring Historic Chicago's "Fighting 8th Infantry" at 100 Years at the D
 date: 2017-11-06 18:24:00 -06:00
 categories:
 - event
-is featured: true
+is featured: false
 event-start-date: 2017-11-10 18:00:00 -06:00
 event-end-date: 2017-11-10 18:45:00 -06:00
 Location: DuSable Museum of African American History, 740 East 56th Place, Chicago,
   Illinois 60637 - http://www.dusablemuseum.org
 RSVP-link: https://1466.blackbaudhosting.com/1466/A-Heros-Welcome-Honoring-the-370th-Infantry-Division
+is published: false
 ---
 
 **Chicago's "Fighting 8th" and the 370th Regiment**
