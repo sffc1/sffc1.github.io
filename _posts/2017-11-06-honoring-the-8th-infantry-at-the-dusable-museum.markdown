@@ -32,18 +32,25 @@ On the Italian Front, the Black soldiers had an opportunity to make contact with
 On Friday November 10, 2017 there will be a program at Dusable Museum honoring the Historic 8th Infantry and other military units. The program is below. 
 Space is limited.  
 
-5:30p – Doors Open
-6:00p – Program Start with National Anthem by Rick Murray
-6:05p – Greetings
-6:08p – Remarks from Perri
-6:15p – Keynote Col. Duane Hayden with the Illinois Air National Guard
-6:25p – Recognition of Honorees 
-* 370th Infantry Division/8th Illinois
-* Montford Point Marines
-* 555th Parachute Infantry Battalion (Triple Nickel)
-* 332nd Fighter Group and the 477th Bombardment Group (Tuskegee Airmen)
-6:35p – Remarks about exhibit by curator, Hari Jones
-6:45p – Program ends 
+* 5:30p – Doors Open
+
+* 6:00p – Program Start with National Anthem by Rick Murray
+
+* 6:05p – Greetings
+
+* 6:08p – Remarks from Perri
+
+* 6:15p – Keynote Col. Duane Hayden with the Illinois Air National Guard
+
+* 6:25p – Recognition of Honorees 
+1. 370th Infantry Division/8th Illinois
+1. Montford Point Marines
+1. 555th Parachute Infantry Battalion (Triple Nickel)
+1. 332nd Fighter Group and the 477th Bombardment Group (Tuskegee Airmen)
+
+* 6:35p – Remarks about exhibit by curator, Hari Jones
+
+* 6:45p – Program ends 
 
 Please register at the link below.
 
