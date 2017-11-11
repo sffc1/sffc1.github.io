@@ -1,6 +1,11 @@
 ---
 title: Fight Voter Suppression in Illinois
 date: 2017-10-31 00:30:00 -05:00
+categories:
+- event
+tags:
+- protest
+- confirmation hearing
 is featured: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 event-start-date: 2017-11-15 12:00:00 -06:00
