@@ -2,6 +2,7 @@
 title: Honoring Historic Chicago's "Fighting 8th Infantry" at 100 Years at the DuSable
   Museum
 date: 2017-11-06 18:24:00 -06:00
+published: false
 categories:
 - event
 is featured: false
