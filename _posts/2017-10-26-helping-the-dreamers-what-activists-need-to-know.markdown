@@ -13,4 +13,4 @@ Location: Flossmoor Community Church, 2218 Hutchinson Road, Flossmoor, IL 60422-
 is published: true
 ---
 
-Join Strike Force For Change for a forum that answers your questions about how we as Activists can help the Dreamers. Lawyers from [MALDEF](http://maldef.org) will be present to talk about the rights of DREAMERs and Immigrants during this phase-out of DACA.  Eric Grant, Host of ['The Family Meeting' Talk Show](http://www.wcpt820.com/the-family-meeting/) which airs Sunday's on WCPT 820AM is taking your questions. Like the on their [Facebook page](https://www.facebook.com/TheFamilyMeetingRadio). 
+Join Strike Force For Change for a forum that answers your questions about how we as Activists can help the Dreamers. Lawyers from [MALDEF](http://maldef.org) will be present to talk about the rights of DREAMERs and Immigrants during this phase-out of DACA.  Eric Grant, Host of ['The Family Meeting' Talk Show](http://www.wcpt820.com/the-family-meeting/) which airs Sunday's on WCPT 820AM is taking your questions. Like them on their [Facebook page](https://www.facebook.com/TheFamilyMeetingRadio). 
