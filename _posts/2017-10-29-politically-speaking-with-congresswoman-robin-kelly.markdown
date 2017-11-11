@@ -1,6 +1,6 @@
 ---
 title: Politically Speaking With Congresswoman Robin Kelly
-date: 2017-11-11 13:40:00 -06:00
+date: 2017-10-29 00:30:00 -05:00
 categories:
 - event
 tags:
