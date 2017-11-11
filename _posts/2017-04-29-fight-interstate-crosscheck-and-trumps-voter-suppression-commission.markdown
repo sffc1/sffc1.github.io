@@ -1,13 +1,13 @@
 ---
 title: Fight Interstate Crosscheck and Trump's Voter Suppression Commission
 date: 2017-04-29 10:51:00 -05:00
+published: false
 categories:
 - action
 tags:
 - call now
 - update
 is featured: false
-is published: true
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 call-script-text: "**SBE CALL SCRIPT:** Hi, my name is ___________ and I'm a registered
   voter in Illinois. I'm calling to ask the Board of Elections to continue to deny
@@ -58,6 +58,7 @@ call-script-text: "**SBE CALL SCRIPT:** Hi, my name is ___________ and I'm a reg
   purpose. Those on the Commission have no regard for integrity in any way and have
   been shown in federal court to employ deceptive tactics to take away our right to
   vote.\n\n[YOUR NAME]\n[YOUR ZIPCODE]   "
+is published: false
 Website: 
 link: 
 page-date: 2017-08-11 10:55:00 -05:00
