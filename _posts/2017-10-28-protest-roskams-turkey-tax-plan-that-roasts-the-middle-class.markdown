@@ -1,6 +1,6 @@
 ---
 title: Protest Roskam's Turkey Tax Plan that Roasts the Middle Class
-date: 2017-11-11 12:48:00 -06:00
+date: 2017-10-28 00:30:00 -05:00
 categories:
 - event
 tags:
