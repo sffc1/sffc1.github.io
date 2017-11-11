@@ -10,6 +10,7 @@ main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 event-start-date: 2017-11-18 10:30:00 -06:00
 event-end-date: 2017-11-18 12:30:00 -06:00
 Location: Richton Park Public Library, 22310 Latonia Lane, Richton Park, IL 60471
+RSVP-link: 'http://act.indivisible.org/event/attend-local-actions/7355 '
 is published: true
 ---
 
