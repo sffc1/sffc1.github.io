@@ -27,8 +27,8 @@ NOTE: Photo ID is required to pass building security
 If you sign-up and then can't make it, please email endcrosscheck@indivisiblechicago.com to let us know so that we can find someone to take your place.
 
 In case you missed the awesome news coverage about our revelations:
-https://www.propublica.org/article/crosscheck-the-voter-fraud-commission-wants-your-data-keep-it-safe
-http://www.motherjones.com/politics/2017/10/trump-election-commissioners-voter-database-is-a-ripe-target-for-hackers/
-https://thinkprogress.org/security-crosscheck-program-86f889b5e6e4/
+[https://www.propublica.org/article/crosscheck-the-voter-fraud-commission-wants-your-data-keep-it-safe](https://www.propublica.org/article/crosscheck-the-voter-fraud-commission-wants-your-data-keep-it-safe)
+[http://www.motherjones.com/politics/2017/10/trump-election-commissioners-voter-database-is-a-ripe-target-for-hackers/](http://www.motherjones.com/politics/2017/10/trump-election-commissioners-voter-database-is-a-ripe-target-for-hackers/)
+[https://thinkprogress.org/security-crosscheck-program-86f889b5e6e4/](https://thinkprogress.org/security-crosscheck-program-86f889b5e6e4/)
 
 As we always have stressed, we are not there to disrupt the normal order of the proceedings. We're there to witness the SBE's answers to our legislators questions and support the call to end Illinois' participation in Crosscheck immediately and to NOT send our data as currently planned this January.
