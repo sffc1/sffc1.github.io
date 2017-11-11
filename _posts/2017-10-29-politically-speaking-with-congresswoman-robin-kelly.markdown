@@ -13,26 +13,21 @@ Location: Richton Park Public Library, 22310 Latonia Lane, Richton Park, IL 6047
 is published: true
 ---
 
-# **2nd Congressional 
-Democratic Organization 
-Empowering Illinois 2nd Congressional District Democrats and Independents**
+# 2nd Congressional Democratic Organization 
+Empowering Illinois 2nd Congressional District Democrats and Independents
 
-
-**Dems on the Move!**
+*Dems on the Move!*
 
 Please Join Us for An Immediate Constituent's Conversation 
 
-## **Politically Speaking
-with
-Congresswoman Robin Kelly**
+## Politically Speaking with Congresswoman Robin Kelly
 
 ### Report on the Proposed Federal Budget Next Best Steps Grass Roots Support Strategies for: 
-### Opposing the Proposed Federal Budget
-### Supporting Obamacare Sign-up
+* ### Opposing the Proposed Federal Budget
+* ### Supporting Obamacare Sign-up
 
 Saturday, November 18th, 2017 
 10:30 AM - 12:30 PM
-
 Richton Park Public Library
 22310 Latonia Lane
 Richton Park, IL 60471
