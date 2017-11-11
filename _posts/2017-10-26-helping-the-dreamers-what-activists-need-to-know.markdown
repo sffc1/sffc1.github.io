@@ -1,6 +1,6 @@
 ---
 title: 'Helping the Dreamers: What Activists Need To Know'
-date: 2017-11-01 10:00:00 -05:00
+date: 2017-10-26 10:00:00 -05:00
 categories:
 - event
 tags:
