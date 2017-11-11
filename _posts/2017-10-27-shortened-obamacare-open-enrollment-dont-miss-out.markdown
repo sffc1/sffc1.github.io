@@ -1,6 +1,6 @@
 ---
 title: Shortened Obamacare Open Enrollment - Don't Miss Out!
-date: 2017-10-27 20:59:00 -05:00
+date: 2017-10-27 00:30:00 -05:00
 tags:
 - update
 is featured: true
