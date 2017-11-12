@@ -1,5 +1,5 @@
 ---
-title: Fight Voter Suppression in Illinois
+title: Stop Illinois Election Commission  From Participating in Interstate Crosscheck
 date: 2017-10-31 00:30:00 -05:00
 categories:
 - event
