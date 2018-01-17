@@ -1,6 +1,6 @@
 ---
 title: Democratic Women of the South Suburbs Meeting and Election of Officers
-date: 2017-12-30 21:48:00 -06:00
+date: 2017-12-31 12:00:00 -06:00
 categories:
 - event
 tags:
