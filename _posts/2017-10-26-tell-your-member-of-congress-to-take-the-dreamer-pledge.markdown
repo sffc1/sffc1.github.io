@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/April-10-2013-14-28-40-1200x795.jpg"
 call-script-text: |-
   SAMPLE CALL DIALOGUE:
@@ -31,7 +31,7 @@ call-script-text: |-
   Staffer: I didn’t know that. I will pass along your concerns to the [Senator/Representative].
 
   Caller: Please do, and tell him that as his constituent here in [part of State], I expect [Senator/Representative] to get on the right side of history with this issue and cosponsor the bipartisan DREAM Act. It is inhumane to tear away young people who are American in every way except on paper—and our economy would take a huge hit if they are forced to leave their jobs.
-is published: true
+is published: false
 ---
 
 Is a Government Shutdown Coming? 
