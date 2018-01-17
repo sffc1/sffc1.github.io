@@ -1,6 +1,7 @@
 ---
-title: Make Calls To Stop the Trump Tax Scam!
+title: Congress Could Vote THIS WEEK! Make Calls To Stop the Trump Tax Scam!
 date: 2017-10-30 00:30:00 -05:00
+published: false
 categories:
 - action
 tags:
@@ -32,6 +33,8 @@ call-script-text: "Postcard/Phonecall Talking Points:  \n\nI am worried that Tru
   loopholes in place?\n"
 is published: true
 ---
+
+LET'S LIGHT UP THE PHONES!  
 
 Tax Reform = A Trump Tax Scam to give Massive Tax Cuts to the Rich.  
 Here’s the first thing to know: this is not going to be true tax reform. Calling it “tax reform” suggests they intend to close corporate loopholes or address the growing wealth inequality that the current tax code fuels. But that’s not what Republicans have in mind. Instead, they want tax cuts for the wealthy and corporations paid for by taking away Medicare, Medicaid, and education funding. The problem is, their tax cuts are geared almost exclusively for the wealthy and corporations, leaving the middle class falling further behind with barely a token reduction in their taxes—just enough to trick you into falling for it. 

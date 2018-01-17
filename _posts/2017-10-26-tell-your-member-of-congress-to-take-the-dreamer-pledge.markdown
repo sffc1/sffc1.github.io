@@ -34,7 +34,7 @@ call-script-text: |-
 is published: true
 ---
 
-WHAT THE END OF THE DACA PROGRAM MEANS
+Is a Government Shutdown Coming? 
 
 Donald Trump has betrayed our values and unraveled our promise to these young immigrants who grew up calling the United States home. When the program was created back in 2012, the U.S. government asked eligible immigrants to come forward, to volunteer their personal information, undergo a background check, and pay a large fine, in exchange for protection from deportation. Indeed, DACA is a promise of safety by the U.S. government to the 800,000 individuals who have been granted DACA—and now that promise has been broken.
 
@@ -44,10 +44,10 @@ CONGRESS NEEDS TO PASS THE DREAM ACT—NOW
 
 There is bipartisan support for the DREAM Act in both the Senate and House. And the bill enjoys massive support from the American public. Now that Donald Trump has yanked protection away from immigrant youth, it is now up to Congress to take action.
 
-The biggest leverage we have is on the December spending bill. You should continue to demand that Congress pass the DREAM Act. Now. Every day that goes by is a day in which the lives of immigrant youth remain at risk. Unfortunately, we don’t set the agenda in Congress, making it difficult to push for policies like the DREAM Act. However, we have leverage coming up in December that Democrats can use to pass the DREAM Act, but it’ll work only if they are willing to play hardball.
+The biggest leverage we have is on the January continuing resolution bill. You should continue to demand that Congress pass the DREAM Act. Now. Every day that goes by is a day in which the lives of immigrant youth remain at risk. Unfortunately, we don’t set the agenda in Congress, making it difficult to push for policies like the DREAM Act. However, we have leverage coming up on this Friday, January 19th that Democrats can use to pass the DREAM Act, but it’ll work only if they are willing to play hardball.
 
 TELL YOUR MOC TO TAKE THE DREAMER PLEDGE
 
-Ask for Democrats: Take the “DREAMer Pledge.” What is the DREAMer Pledge? It’s simple. If Congress hasn’t passed the DREAM Act by Dec. 8th—when funding for the government expires—then they will insist on it being a part of the December spending bill. The pledge is that they will commit to voting against the Dec. “continuing resolution” unless it contains a clean DREAM Act.
+Ask for Democrats: Take the “DREAMer Pledge.” What is the DREAMer Pledge? It’s simple. If Congress hasn’t passed the DREAM Act by January 19th—when funding for the government expires—then they will insist on it being a part of the January spending bill. The pledge is that they will commit to voting against this month's “continuing resolution” unless it contains a clean DREAM Act.
 
 Ask for Republicans: Sign-on to the DREAM Act. Every Member of Congress should be on the DREAM Act, and in fact there are a couple of Republicans who have joined their Democratic colleagues in co-sponsoring. Is your Republican Senator(s) or Representative signed-on? You can check here for your senators and here for your Representative.
