@@ -7,8 +7,8 @@ tags:
 - meeting
 is featured: false
 main-image: "/uploads/StrikeForceLogo1st.jpg"
-event-start-date: 2018-01-28 19:00:00 -06:00
-event-end-date: 2018-01-28 20:30:00 -06:00
+event-start-date: 2018-01-28 13:00:00 -06:00
+event-end-date: 2018-01-28 15:30:00 -06:00
 Location: Grande Prairie Public Library, 3479 W. 183rd Street, Hazel Crest, IL
 is published: false
 ---
