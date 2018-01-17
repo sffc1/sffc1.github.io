@@ -15,7 +15,7 @@ is published: true
 **#GrabThemByTheMidterms**
 Come to one of these Women's March Pre-Parties to create protest signs. 
 
-I will have Women's March Pussy Hats and Women's March Buttons at both of first the Frankfort and then the Homewood Pre-Parties. 
+I will have Women's March Pussy Hats and Women's March Buttons at first the Frankfort and then the Homewood Pre-Parties. 
 
 **Southwest Suburban Activists Women's March Pre-Party**
 5:00 PM to 9:00 PM 
