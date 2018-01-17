@@ -1,7 +1,7 @@
 ---
 title: Stop Illinois Election Commission  From Participating in Interstate Crosscheck
   - UPDATE!
-date: 2018-01-31 00:30:00 -06:00
+date: 2017-12-29 00:30:00 -06:00
 categories:
 - event
 tags:
