@@ -1,22 +1,24 @@
 ---
 title: Stop Illinois Election Commission  From Participating in Interstate Crosscheck
-date: 2017-10-31 00:30:00 -05:00
-published: false
+  - UPDATE!
+date: 2018-01-31 00:30:00 -06:00
 categories:
 - event
 tags:
 - protest
 - confirmation hearing
-is featured: true
+is featured: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 event-start-date: 2017-11-15 12:00:00 -06:00
 event-end-date: 2017-11-15 14:00:00 -06:00
-Location: 160 N LaSalle (across the street from the Thompson Center), 6th floor committee
-  room.
-RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScBT6IRriCFE9ZvyKqezdySaGXdqEa8xLfajMW2yfQik06DOg/viewform
-is published: true
+RSVP-link: 'https://www.indivisiblechicago.com/end-interstate-crosscheck/ '
+is published: false
 ---
 
+An Illinois General Assembly Commission has voted to remove the state of Illinois from the Interstate Crosscheck program. To get the latest go to [https://www.endcrosscheck.com/crosscheck-faq/](https://www.endcrosscheck.com/crosscheck-faq/)
+
+
+===============================================
 # FILL THE ROOM EVENT
 
 ## With the big wins for Democratic Party Candidates on Tuesday, November 7th, 2017, do you think that the Republicans are going to take this lying down?!?!?
