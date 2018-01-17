@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/StrikeForceLogo1st.jpg"
 event-start-date: 2018-01-28 19:00:00 -06:00
 event-end-date: 2018-01-28 20:30:00 -06:00
