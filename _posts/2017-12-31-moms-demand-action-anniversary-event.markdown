@@ -6,8 +6,8 @@ categories:
 tags:
 - meeting
 main-image: "/uploads/MomsDemandAction.jpeg"
-event-start-date: 2018-01-28 13:00:00 -06:00
-event-end-date: 2018-01-28 15:30:00 -06:00
+event-start-date: 2018-01-28 15:00:00 -06:00
+event-end-date: 2018-01-28 17:00:00 -06:00
 Location: Frankfort, IL
 is published: false
 ---
