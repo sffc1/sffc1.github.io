@@ -1,6 +1,7 @@
 ---
 title: Congress Could Vote THIS WEEK! Make Calls To Stop the Trump Tax Scam!
 date: 2017-10-30 00:30:00 -05:00
+published: false
 categories:
 - action
 tags:
