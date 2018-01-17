@@ -1,6 +1,6 @@
 ---
 title: Women's March Pre-Parties - Homewood and Frankfort
-date: 2017-11-02 19:32:00 -05:00
+date: 2018-01-02 19:32:00 -06:00
 categories:
 - event
 tags:
