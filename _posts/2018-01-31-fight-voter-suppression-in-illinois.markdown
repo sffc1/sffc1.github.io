@@ -15,7 +15,11 @@ RSVP-link: 'https://www.indivisiblechicago.com/end-interstate-crosscheck/ '
 is published: false
 ---
 
-An Illinois General Assembly Commission has voted to remove the state of Illinois from the Interstate Crosscheck program. To get the latest go to [https://www.endcrosscheck.com/crosscheck-faq/](https://www.endcrosscheck.com/crosscheck-faq/)
+An Illinois General Assembly Commission has voted to delay sending Illinois' voter information to the Interstate Crosscheck program. 
+
+[http://newsok.com/article/feed/1650666](http://newsok.com/article/feed/1650666)
+
+To get the latest on Indivisible's fight to stop Interstate Crosscheck, go to [https://www.endcrosscheck.com/crosscheck-faq/](https://www.endcrosscheck.com/crosscheck-faq/)
 
 
 ===============================================
