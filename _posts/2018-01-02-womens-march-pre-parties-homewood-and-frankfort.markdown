@@ -1,15 +1,16 @@
 ---
 title: Women's March Pre-Parties - Homewood and Frankfort
 date: 2018-01-02 19:32:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 event-start-date: 2018-01-19 17:00:00 -06:00
 event-end-date: 2018-01-19 21:00:00 -06:00
 Location: Frankfort, IL and Homewood, IL
-is published: true
+is published: false
 ---
 
 **#GrabThemByTheMidterms**
