@@ -1,17 +1,18 @@
 ---
 title: Chicago Women's March
 date: 2018-01-01 19:55:00 -06:00
+published: false
 categories:
 - event
 tags:
 - protest
-is featured: true
+is featured: false
 main-image: "/uploads/Profile_Photo_blue-date_RGB-300x300.jpg"
 event-start-date: 2018-01-20 11:00:00 -06:00
 event-end-date: 2018-01-20 13:00:00 -06:00
 Location: Columbus Drive and Michigan Avenue
 RSVP-link: http://womens121marchonchicago.org/register-for-the-march-2/
-is published: true
+is published: false
 ---
 
 **MARCH TO THE POLLS**
