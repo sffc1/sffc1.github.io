@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/Turn%20It%20Blue%20Stars.jpg"
 event-start-date: 2018-02-10 09:30:00 -06:00
 event-end-date: 2018-02-10 12:00:00 -06:00
