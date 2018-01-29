@@ -5,11 +5,12 @@ categories:
 - event
 tags:
 - meeting
+is featured: true
 main-image: "/uploads/Turn%20It%20Blue%20Stars.jpg"
 event-start-date: 2018-02-10 09:30:00 -06:00
 event-end-date: 2018-02-10 12:00:00 -06:00
 Location: Idlewild Country Club, 19201 Dixie Highway, Flossmoor, IL 60422
-RSVP-link: www.eventbrite.com/e/turn-it-blue-tickets-41356714045
+RSVP-link: 'http://www.eventbrite.com/e/turn-it-blue-tickets-41356714045 '
 is published: true
 ---
 
