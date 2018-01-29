@@ -1,6 +1,7 @@
 ---
 title: Strike Force For Change Meeting
 date: 2017-12-31 17:35:00 -06:00
+published: false
 categories:
 - event
 tags:
