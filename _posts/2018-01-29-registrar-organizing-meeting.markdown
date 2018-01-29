@@ -5,12 +5,12 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/AWdZ8bRn_400x400.jpg"
 event-start-date: 2018-02-04 14:00:00 -06:00
 event-end-date: 2018-02-04 15:00:00 -06:00
 Location: 17942 Cherrywood Lane, Homewood, IL
-is published: false
+is published: true
 ---
 
 **# Flip The 6th Blue Postcard Party Planning and Registrar Organizing Meeting**: 
