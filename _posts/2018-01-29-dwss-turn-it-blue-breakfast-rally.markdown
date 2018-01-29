@@ -1,6 +1,6 @@
 ---
 title: DWSS Turn It Blue Breakfast Rally
-date: 2017-12-29 21:55:00 -06:00
+date: 2018-01-29 12:00:00 -06:00
 categories:
 - event
 tags:
