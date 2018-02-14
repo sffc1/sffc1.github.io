@@ -10,9 +10,8 @@ main-image: "/uploads/PastedGraphic-2.png"
 RSVP-link: https://www.cookcountyclerk.com/agency/2018-elections
 ---
 
-## 
-Illinois Election 2018 Schedule
-https://www.cookcountyclerk.com/agency/2018-elections  
+**Illinois Election 2018 Schedule**
+[https://www.cookcountyclerk.com/agency/2018-elections](https://www.cookcountyclerk.com/agency/2018-elections)  
 
 
 * February 20, 2018 - last day for voter registration for primary for deputy registrars. 
