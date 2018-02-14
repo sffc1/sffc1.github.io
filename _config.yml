@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Strike Force For Change, an Indivisible Group
+subtitle: 'Strike Force For Change, an #Indivisible Group'
 email: strikeforceforchange@gmail.com
 baseurl: 
 url: 
