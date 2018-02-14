@@ -1,5 +1,5 @@
 ---
-title: DWSS Turn It Blue Breakfast Rally
+title: DWSS Turn It Blue Breakfast Rally - Rescheduled
 date: 2018-01-29 12:00:00 -06:00
 categories:
 - event
@@ -7,15 +7,15 @@ tags:
 - meeting
 is featured: false
 main-image: "/uploads/Turn%20It%20Blue%20Stars.jpg"
-event-start-date: 2018-02-10 09:30:00 -06:00
-event-end-date: 2018-02-10 12:00:00 -06:00
+event-start-date: 2018-03-03 09:30:00 -06:00
+event-end-date: 2018-03-03 12:00:00 -06:00
 Location: Idlewild Country Club, 19201 Dixie Highway, Flossmoor, IL 60422
 RSVP-link: 'http://www.eventbrite.com/e/turn-it-blue-tickets-41356714045 '
 is published: true
 ---
 
 # Turn it Blue Breakfast Rally
-## Saturday, February 10, 2018  
+## Saturday, March 3, 2018  
 Idlewild Country Club, 
 19201 Dixie Hwy, Flossmoor, IL 60422, 
 9:30 a.m. - 12:00 p.m. 
