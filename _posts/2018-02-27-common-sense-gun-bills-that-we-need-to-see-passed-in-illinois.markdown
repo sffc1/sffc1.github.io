@@ -26,8 +26,8 @@ call-script-text: "There are 5 gun violence prevention bills scheduled to be hea
   at crime scenes were traced back to just 1 gun dealer, in comparrisiopn with most
   gun stores that sold just 3 crime guns. \n\nGun Dealer Licensing is a bill that
   would make sure all gun dealers are employing common sense business practices like:
-  \n* Background checks on all employees,\n* Videotaping security measures for all
-  gun stores,\n* and proper training on how to perform background checks. \n\n**Can
+  \n\n* Background checks on all employees,\n\n* Videotaping security measures for
+  all gun stores,\n\n* and proper training on how to perform background checks. \n\n**Can
   we count on you to support the Gun Dealer Licensing Act? **\n\nAs I said before,
   your State Representative Anthony Deluca is going to vote on this bipartisan legislation
   that can ensure that all gun dealers in Illinois are following these common sense
@@ -45,8 +45,6 @@ is published: true
 There are 5 gun violence prevention bills scheduled to be heard in the House Judiciary Committee at 3pm tomorrow, Wednesday, 2-28-18. We are laser focused on the vote on Gun Dealer Licensing on Wednesday - but we also want to show our support for the bills that are in committee tomorrow afternoon. If you are an Illinois resident, please complete witness slips on the following bills. You can do so at this link:   
 [http://my.ilga.gov/Hearing/HearingDetail/15583](http://my.ilga.gov/Hearing/HearingDetail/15583)
 
- 
-
 * HB 1465 Amendment #1 (Mussman) – Which will raise the age to purchase an assault weapon to 21.
 
 * HB 1467 Amendment #1 (Moylan) – Will ban the sale of bump stocks in Illinois.
@@ -57,8 +55,6 @@ There are 5 gun violence prevention bills scheduled to be heard in the House Jud
 
 * HB 1664 Amendment #1 (Conroy) – Creates a Dangerous Person Hotline and toll free number to enable a person to notify the State Police if they have reason to believe someone is a clear and present danger.
 
-
-### 
 INSTRUCTIONS
 For each of the 5 bills you will need to create a new slip.
 
