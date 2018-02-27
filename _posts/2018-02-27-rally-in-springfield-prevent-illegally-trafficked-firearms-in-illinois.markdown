@@ -1,6 +1,10 @@
 ---
 title: Rally In Springfield - Prevent Illegally Trafficked Firearms in Illinois
 date: 2018-02-27 12:02:00 -06:00
+categories:
+- event
+tags:
+- meeting
 is featured: true
 main-image: "/uploads/gun-ammo.jpg"
 event-start-date: 2018-02-28 09:00:00 -06:00
