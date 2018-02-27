@@ -1,5 +1,5 @@
 ---
-title: Common Sense Gun Bills that we need to see passed in Illinois
+title: Common Sense Gun Bills that we need to see passed
 date: 2018-02-27 14:52:00 -06:00
 categories:
 - action
