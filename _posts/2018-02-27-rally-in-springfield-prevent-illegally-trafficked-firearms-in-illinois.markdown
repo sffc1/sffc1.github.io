@@ -14,11 +14,13 @@ is published: true
 
 February 28th is the Anti-Gun Violence Lobby Day in Springfield. Let us know if you want to join us in Springfield. Carpools of Indivisible groups and other Activist groups are leaving from the South Suburbs starting at 6AM. Contact us on Facebook or on the Indivisible South Suburban Chicago Facebook page to get into a carpool. 
 
-Right now it is urgent for us to pressure the Illinois General Assembly to pass the Gun Dealer Licensing Act - SB 1657. Currently in Illinois, gun dealerships are not required to be licensed, making it difficult to prevent gun trafficking and straw purchases (buying a gun for someone who is prohibited by law to possess one.) This bill would also require them to run background checks on all employees and install cameras to monitor sales and thefts. 
+Right now it is urgent for us to pressure the Illinois General Assembly to pass the Gun Dealer Licensing Act - SB 1657. This bill has been introduced every year for 15 years and this year it has a chance to pass. 
+
+Currently in Illinois, gun dealerships are not required to be licensed, making it difficult to prevent gun trafficking and straw purchases (buying a gun for someone who is prohibited by law to possess one.) This bill would also require them to run background checks on all employees and install cameras to monitor sales and thefts. 
 
 **We want this to be a veto-proof vote.** 
 
-We are asking everyone to call your state representative and ask them to vote 'yes' on Gun Dealer Licensing SB1657. It's easy and takes only a few minutes. You can find your Illinois General Assembly Representative at StrikeForceForChange.com and click on Representatives 
+We are asking everyone to call your state representative and ask them to vote 'yes' on Gun Dealer Licensing SB1657. It's easy and takes only a few minutes. You can find your Illinois General Assembly Representative at StrikeForceForChange.com and scroll to the bottom to see your Representatives  
 OR 
 You can look at this map:
 
