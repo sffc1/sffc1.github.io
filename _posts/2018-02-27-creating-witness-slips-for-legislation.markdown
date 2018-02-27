@@ -11,9 +11,9 @@ If you are an Illinois resident, please complete witness slips on progressive bi
 [http://my.ilga.gov/Hearing/HearingDetail/15583](http://my.ilga.gov/Hearing/HearingDetail/15583)
 
 INSTRUCTIONS
-For each of the 5 bills you will need to create a new slip.
+For each bill you will need to create a new slip.
 
-Once you select the bill please follow these instructions:
+Once you select the bill and know the bills number,  please follow these instructions: 
 
 1. Under Section I, fill in your identification information (under business you can write “N/A”, “self” or “ICHV”)
 
