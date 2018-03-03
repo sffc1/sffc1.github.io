@@ -5,6 +5,9 @@ categories:
 - action
 tags:
 - update
+is featured: false
+main-image: "/uploads/R83IpW8s_400x400.jpg"
+is published: false
 ---
 
 If you are an Illinois resident, please complete witness slips on progressive bills we support. You can do so at this link: 
