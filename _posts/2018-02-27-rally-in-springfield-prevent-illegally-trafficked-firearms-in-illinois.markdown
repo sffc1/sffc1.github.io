@@ -1,5 +1,5 @@
 ---
-title: Rally In Springfield - Prevent Illegally Trafficked Firearms in Illinois
+title: UPDATE - Rally In Springfield - All Anti-Gun Legislation has passed!
 date: 2018-02-27 12:02:00 -06:00
 categories:
 - event
@@ -14,6 +14,9 @@ Location: Illinois State Capital General Assembly, Springfield, IL
 RSVP-link: https://www.facebook.com/groups/362731264113946/
 is published: true
 ---
+
+## Now it goes to Governor Rauner...
+
 
 ## Anti-Gun Violence Lobby Day in Springfield
 
