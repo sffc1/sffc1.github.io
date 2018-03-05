@@ -40,7 +40,7 @@ call-script-text: "There are 5 gun violence prevention bills scheduled to be hea
   and read it back)*\n\nSpringfield Office: 217-782-1719\n\nThanks so much for talking
   to me tonight! We will be sure to follow up with you to see how the conversation
   went. Thanks and have a great night.  \n\n"
-is published: true
+is published: false
 ---
 
 There are 5 gun violence prevention bills scheduled to be heard in the House Judiciary Committee at 3pm tomorrow, Wednesday, 2-28-18. We are laser focused on the vote on Gun Dealer Licensing on Wednesday - but we also want to show our support for the bills that are in committee tomorrow afternoon. If you are an Illinois resident, please complete witness slips on the following bills. You can do so at this link:   
