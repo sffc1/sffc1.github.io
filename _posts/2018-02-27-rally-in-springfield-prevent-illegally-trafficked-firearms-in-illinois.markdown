@@ -1,6 +1,7 @@
 ---
 title: UPDATE - Rally In Springfield - All Anti-Gun Legislation has passed!
 date: 2018-02-27 12:02:00 -06:00
+published: false
 categories:
 - event
 tags:
