@@ -6,13 +6,13 @@ categories:
 tags:
 - protest
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/gun-ammo.jpg"
 event-start-date: 2018-02-28 09:00:00 -06:00
 event-end-date: 2018-02-28 12:00:00 -06:00
 Location: Illinois State Capital General Assembly, Springfield, IL
 RSVP-link: https://www.facebook.com/groups/362731264113946/
-is published: true
+is published: false
 ---
 
 ## Now it goes to Governor Rauner...
