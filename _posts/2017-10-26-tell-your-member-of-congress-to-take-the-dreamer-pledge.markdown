@@ -1,5 +1,5 @@
 ---
-title: Tell Your Member of Congress to take the DREAMer Pledge Asterisk
+title: Tell Your Member of Congress to take the DREAMer Pledge
 date: 2017-10-26 17:25:00 -05:00
 published: false
 categories:
