@@ -1,6 +1,7 @@
 ---
 title: Tell Your Member of Congress to take the DREAMer Pledge
 date: 2017-10-26 17:25:00 -05:00
+published: false
 categories:
 - action
 tags:
@@ -34,7 +35,7 @@ call-script-text: |-
 is published: false
 ---
 
-Is a Government Shutdown Coming? 
+Asterisk 45 CAN FIX THIS! Stop Sabotaging the Compromise bills!
 
 Donald Trump has betrayed our values and unraveled our promise to these young immigrants who grew up calling the United States home. When the program was created back in 2012, the U.S. government asked eligible immigrants to come forward, to volunteer their personal information, undergo a background check, and pay a large fine, in exchange for protection from deportation. Indeed, DACA is a promise of safety by the U.S. government to the 800,000 individuals who have been granted DACA—and now that promise has been broken.
 
