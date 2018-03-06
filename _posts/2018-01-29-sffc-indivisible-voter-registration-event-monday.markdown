@@ -1,6 +1,7 @@
 ---
 title: SFFC-Indivisible Voter Registration Event - Monday
 date: 2018-01-29 11:58:00 -06:00
+published: false
 categories:
 - event
 tags:
