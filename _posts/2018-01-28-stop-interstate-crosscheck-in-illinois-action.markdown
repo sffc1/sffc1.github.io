@@ -1,11 +1,12 @@
 ---
 title: ACTION - Stop Interstate Crosscheck in Illinois
 date: 2018-01-28 12:00:00 -06:00
+published: false
 categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/endcrosscheck-room2.jpg"
 is published: false
 ---

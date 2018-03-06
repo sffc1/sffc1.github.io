@@ -1,6 +1,7 @@
 ---
 title: Registrar Organizing Meeting
 date: 2018-01-29 12:00:00 -06:00
+published: false
 categories:
 - event
 tags:
@@ -10,7 +11,7 @@ main-image: "/uploads/AWdZ8bRn_400x400.jpg"
 event-start-date: 2018-02-04 14:00:00 -06:00
 event-end-date: 2018-02-04 15:00:00 -06:00
 Location: 17942 Cherrywood Lane, Homewood, IL
-is published: true
+is published: false
 ---
 
 **# Flip The 6th Blue Postcard Party Planning and Registrar Organizing Meeting**: 
