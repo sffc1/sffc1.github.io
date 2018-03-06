@@ -7,7 +7,7 @@ tags:
 - update
 is featured: false
 main-image: "/uploads/no_ban_no_wall_poster-re19d73d229474ef3b76aacf47eb524ef_wvt_8byvr_324.jpg"
-is published: false
+is published: true
 ---
 
 In mid-February, the Senate turned its attention to immigration for the first time since it passed a bipartisan comprehensive immigration bill back in 2013. The 2013 bill never made it to President Obama’s desk after Republican hardliners in the House blocked it, despite widespread public support for it. The last time Congress attempted to pass a comprehensive immigration reform bill, the Senate was controlled by Democrats. That meant that even though the 2013 bill wasn’t perfect, it was insulated from the most extreme, anti-immigrant Republicans attacks. That wasn't the case this time around. With Republicans in control of both chambers, and with a white supremacist in the White House egging on the most extreme among them, the debate on the Senate floor quickly turned quickly. **Here's what happened.**
