@@ -6,7 +6,7 @@ categories:
 tags:
 - confirmation hearing
 is featured: false
-main-image: "/uploads/FightFTFuture.png"
+main-image: "/uploads/PFOFSSA4_400x400.jpg"
 RSVP-link: https://www.fightforthefuture.org
 is published: true
 ---
