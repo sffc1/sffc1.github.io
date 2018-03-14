@@ -1,11 +1,12 @@
 ---
 title: Indivisible Chicago Summit
 date: 2018-03-05 17:37:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/AWdZ8bRn_400x400.jpg"
 event-start-date: 2018-03-11 16:00:00 -05:00
 event-end-date: 2018-03-11 19:00:00 -05:00
