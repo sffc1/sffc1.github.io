@@ -17,7 +17,7 @@ is published: true
 
 Canvassing is a fun and rewarding experience. Now is your chance to learn more. 
 
-Sponsored by Team Akiwowo, this training is similar to the Canvassing Training that was provided by our Resistance Summer Neighborhood Listening Project last summer on Educational/Listening Canvassing. An Educational/Listening Canvas is a growing approach to traditional canvassing that builds on exciting new research into "Deep Canvassing" as a way to persuade and motivate. This training will have a focus on GOTV motivation. 
+Sponsored by Team Akiwowo, this training might be similar to the Canvassing Training that was provided by our Resistance Summer Neighborhood Listening Project last summer on Educational/Listening Canvassing. An Educational/Listening Canvas is a growing approach to traditional canvassing that builds on exciting new research into "Deep Canvassing" as a way to persuade and motivate. This training will have a focus on GOTV motivation. 
 
 Learn more about Deep Canvassing 
 HERE
