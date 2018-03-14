@@ -60,3 +60,5 @@ Find your ballot at Ballotready.org
 Register to vote by mail (deadline is March 15), or pick an early voting place and go vote!
 
 Get 10 friends to do the same! 
+
+[https://www.indivisiblechicago.com/take-action-1/2018-3-13-1 ](https://www.indivisiblechicago.com/take-action-1/2018-3-13-1)
