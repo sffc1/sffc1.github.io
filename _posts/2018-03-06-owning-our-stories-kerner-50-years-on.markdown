@@ -1,17 +1,18 @@
 ---
 title: 'Owning Our Stories: Kerner 50 Years On'
 date: 2018-03-06 11:28:00 -06:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/color_of_change_logo.png"
 event-start-date: 2018-03-08 19:00:00 -06:00
 event-end-date: 2018-03-08 20:15:00 -06:00
 Location: Color Of Change Webinar
 RSVP-link: https://zoom.us/webinar/register/2415200036833/WN_74NExMqdRGeu90sh5uJ7EA
-is published: true
+is published: false
 ---
 
 ## A Color Of Change Webinar
