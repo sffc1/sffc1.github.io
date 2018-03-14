@@ -1,13 +1,14 @@
 ---
 title: Tell Governor Rauner - NO VETO on Sensible Gun Laws
 date: 2018-03-05 22:26:00 -06:00
+published: false
 categories:
 - action
 tags:
 - confirmation hearing
-is featured: true
+is featured: false
 main-image: "/uploads/resist-image.jpeg"
-is published: true
+is published: false
 ---
 
 Last week was an incredible week in Springfield – SB 1657, the Gun Dealer Licensing Act passed out of the Illinois House.  It’s great news – but our work is far from over!  The bill is now on Governor Rauner’s desk and we need you to take a couple quick actions:
