@@ -13,7 +13,7 @@ is published: true
 
 **MoveOn.Org** has had a plan in place in the event that Cheeto 45 fires Rosenstein or Mueller.  I listed the plan below, but you can also go to [https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/](https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/)
 
-We have discussed these plans and how our group will proceed at our Strike Force For Change Meetings. Please READ THE MOVEON.ORG RAPID RESPONSE PLAN and contact StrikeForceForChange@gmail.com to get involved if that fateful day should arrive. 
+We have discussed these plans and how our group will proceed at our Strike Force For Change Meetings. We plan to meet to go downtown Chicago to participate in the main protests. Go [HERE](https://act.moveon.org/event/mueller-firing-rapid-response-events/search/) to find a Rapid Response event near you. Please READ THE MOVEON.ORG RAPID RESPONSE PLAN and contact StrikeForceForChange@gmail.com to get involved if that fateful day should arrive. 
 
 # Mueller Firing Rapid Response - The Plan
  
