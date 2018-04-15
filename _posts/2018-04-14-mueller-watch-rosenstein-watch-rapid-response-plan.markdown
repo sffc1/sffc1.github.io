@@ -22,7 +22,7 @@ We have discussed these plans and how our group will proceed at our Strike Force
 
 Here are the actions Donald Trump could take that would set these protests in motion:
 
-### THE RED LINES – in graphic form here.
+### THE RED LINES – [in graphic form here](https://s3.amazonaws.com/s3.moveon.org/images/TrumpRussia_RedLines.png).
 
 Firing Mueller
 Pardons of key witnesses
