@@ -1,0 +1,79 @@
+---
+title: Mueller Watch - Rosenstein Watch. Rapid Response Plan
+date: 2018-04-14 20:35:00 -05:00
+categories:
+- update
+tags:
+- protest
+is featured: true
+main-image: "/uploads/20170726_MoveOn_MuellerFiringRapidResponse_website_banner.png"
+RSVP-link: 'https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/ '
+is published: true
+---
+
+**MoveOn.Org** has had a plan in place in the event that Cheeto 45 fires Rosenstein or Mueller.  I listed the plan below, but you can also go to [https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/](https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/)
+
+We have discussed these plans and how our group will proceed at our Strike Force For Change Meetings. Please READ THE MOVEON.ORG RAPID RESPONSE PLAN and contact StrikeForceForChange@gmail.com to get involved if that fateful day should arrive. 
+
+# Mueller Firing Rapid Response - The Plan
+ 
+
+## RED LINES
+
+Here are the actions Donald Trump could take that would set these protests in motion:
+
+### THE RED LINES – in graphic form here.
+
+Firing Mueller
+Pardons of key witnesses
+Actions that would prevent the investigation from being conducted freely, such as replacing Deputy Attorney General Rod Rosenstein, Mueller’s current supervisor, or repealing the regulations establishing the office
+
+** The firing of Attorney General Jeff Sessions would be one step short of the break glass moment. We would not trigger events, but we would respond by growing the rapid-response list and demanding that any new AG protect the investigation and that Congress pass the Mueller protection legislation. * *
+
+ 
+
+### WHERE AND WHEN
+
+Here’s the plan for when we would call for protests:
+
+Rallies will begin just hours after national events are triggered:
+
+If actions are triggered BEFORE 2 p.m. local time —> events will begin @ 5 p.m. local time.
+
+If actions are triggered AFTER 2 p.m. local time —> events will begin @ noon local time the following day.
+
+** This is the general plan—please confirm details on your event page, as individual hosts may tailor their events to their local plan.* *
+
+ 
+
+### THEN WHAT?
+
+Good question!
+
+These events are only the first step. Our goal with these actions is to create an opportunity for anyone outraged by Trump’s abuse of power to engage immediately in voicing their concern. Together, we will communicate unmistakably that this is not okay and that this act to undermine democracy is not going to be allowed to become a new normal.
+
+But that’s only the first step, and it’s far from the last one.
+
+Congress is the only body with the constitutional power and responsibility to hold a president politically accountable for major violations of the public trust like this. And “we, the people” are their backstop and source of legitimate power.
+
+And what people do next to force Congress to act is up to them!
+
+Certainly, everyone at an event should also call their member of Congress to demand action. And everyone is encouraged to communicate that demand directly at the congressional offices.
+
+Beyond that, it’s up to you! It’s a good idea to discuss possible scenarios in advance with the hosts of your event or with your friends to develop other nonviolent ways you would like to compel actions from Congress. 
+
+Here’s what groups will be asking Congress to do:
+
+ 
+
+### CONGRESSIONAL ASKS
+
+Demand members of Congress protect the special counsel’s office, including preserving its files and staff and ensuring it receives the full cooperation of all federal government law enforcement assets.
+
+Demand the creation of a modern-day version of the Senate Select Watergate Committee to investigate all matters involved in the Russia scandals and Trump's abuse of power and obstruction of justice.
+
+Demand bipartisan hearings in the House Judiciary Committee on obstruction of justice and abuse of power.
+
+Some groups will call these the first steps to impeachment hearings; others will not.
+
+Impeaching Donald Trump is not a demand shared by all partner organizations. Nor is supporting impeachment a prerequisite to attend these events. But it is a view welcome at events, and you can definitely bring a poster calling for it if that’s your view. We can all be for the three things above if some of us are also for additional things, such as impeachment.
