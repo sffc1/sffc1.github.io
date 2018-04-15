@@ -1,16 +1,17 @@
 ---
 title: Get Out The Vote Training
 date: 2018-03-14 12:51:00 -05:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/resist-image.jpeg"
 event-start-date: 2018-03-16 19:00:00 -05:00
 event-end-date: 2018-03-16 20:00:00 -05:00
 Location: 19624 Governors Highway, Flossmoor, IL 60422
-is published: true
+is published: false
 ---
 
 ### Did you miss the canvassing training that Strike Force For Change did as part of Resistance Summer 2017? 
