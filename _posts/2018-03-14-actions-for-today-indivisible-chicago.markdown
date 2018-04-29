@@ -1,6 +1,7 @@
 ---
 title: Actions For Today - Indivisible Chicago
 date: 2018-03-14 14:51:00 -05:00
+published: false
 categories:
 - action
 tags:
@@ -8,7 +9,7 @@ tags:
 is featured: false
 main-image: "/uploads/AWdZ8bRn_400x400.jpg"
 RSVP-link: https://www.indivisiblechicago.com/take-action-1/2018-3-13-1
-is published: true
+is published: false
 ---
 
 ## Actions You Can Take Today
