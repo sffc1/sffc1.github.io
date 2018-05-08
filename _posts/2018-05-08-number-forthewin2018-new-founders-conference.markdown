@@ -16,6 +16,12 @@ is published: true
 New Founders has announced the discussion topics that have been chosen for our breakout sessions during the #ForTheWIN2018 conference! These discussions will bring together activists, leaders, entrepreneurs, and anyone who wants to have a real discussion around the issues. We will have writers and note-takers present to record theses incredible discussions so that we're able to broadcast to the world that we're here and ready to make a difference. Don't miss out on your chance to join the discussion. 
 Conference attendees will have the option to choose one of each breakout session from each day.
 
+DATE AND TIME
+
+Wed, May 30, 2018, 9:00 AM - 6:00 PM 
+AND 
+Thu, May 31, 2018, 9:00 AM - 6:00 PM 
+
 Day 1 Breakout Session Choices
 
 Breakout Session A: How can we achieve gun reform in the face of the NRA funding of candidates? How can we decrease gun violence? 
