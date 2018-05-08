@@ -5,9 +5,9 @@ categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
-is published: true
+is published: false
 ---
 
 Ask BOTH your State Senator and your State Representative to VOTE YES to override Governor Rauner's Veto on SB1657 (and then email or tweet but calls most powerful and face to face meetings even more powerful). Call because SOME of them DID NOT VOTE the way that you would think they did. (IL-Sen. Hastings-D)
