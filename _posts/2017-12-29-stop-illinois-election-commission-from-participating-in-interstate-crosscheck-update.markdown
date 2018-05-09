@@ -6,10 +6,10 @@ categories:
 - action
 tags:
 - update
-is featured: true
+is featured: false
 main-image: "/uploads/endcrosscheck-room2.jpg"
 RSVP-link: 'https://www.indivisiblechicago.com/end-interstate-crosscheck/ '
-is published: true
+is published: false
 ---
 
 ## UPDATE - SB2273 has passed the Illinois Senate!!
