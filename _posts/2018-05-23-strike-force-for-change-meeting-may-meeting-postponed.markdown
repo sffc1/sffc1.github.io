@@ -7,6 +7,8 @@ tags:
 - meeting
 is featured: true
 main-image: "/uploads/StrikeForceLogo1st.jpg"
+event-start-date: 2018-05-27 15:00:00 -05:00
+event-end-date: 2018-05-27 16:30:00 -05:00
 RSVP-link: http://strikeforceforchange.com
 is published: true
 ---
