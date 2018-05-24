@@ -5,9 +5,9 @@ categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/endcrosscheck-room2.jpg"
-is published: true
+is published: false
 ---
 
 ## CALL GOVERNOR RAUNER AND ASK HIM TO SIGN SB2273!!
