@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/StopJunkInsurance.png"
 call-script-text: "***This could be a post card or phone call or tweet*: **\n\nSenator
   or Congressperson [name here] \n\nI urge you to vote YES on SB2388 SFA 1 in the
@@ -21,7 +21,7 @@ call-script-text: "***This could be a post card or phone call or tweet*: **\n\nS
   leave you with very high medical bills.”\n\nAgain, I urge you to vote YES to  SB2388
   SFA 1! Thank you for your attention.  "
 RSVP-link: http://protectourcareil.org/index.php/resources/
-is published: true
+is published: false
 ---
 
 ### Call Your Senator!
