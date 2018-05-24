@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 main-image: "/uploads/StopJunkInsurance.png"
 call-script-text: "***This could be a post card or phone call or tweet*: **\n\nSenator
   or Congressperson [name here] \n\nI urge you to vote YES on HB2624 SA1 and SA2 in
