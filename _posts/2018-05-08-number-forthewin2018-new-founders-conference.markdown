@@ -1,6 +1,7 @@
 ---
 title: "#ForTheWin2018 New Founders Conference"
 date: 2018-05-08 16:01:00 -05:00
+published: false
 categories:
 - event
 tags:
@@ -10,7 +11,7 @@ event-start-date: 2018-05-30 09:00:00 -05:00
 event-end-date: 2018-05-31 18:00:00 -05:00
 Location: Savage Smyth, 920 North Franklin Street, Chicago, IL 60610
 RSVP-link: 'https://www.eventbrite.com/e/for-the-win-conference-presented-by-newfounders-tickets-43002765429 '
-is published: true
+is published: false
 ---
 
 New Founders has announced the discussion topics that have been chosen for our breakout sessions during the #ForTheWIN2018 conference! These discussions will bring together activists, leaders, entrepreneurs, and anyone who wants to have a real discussion around the issues. We will have writers and note-takers present to record theses incredible discussions so that we're able to broadcast to the world that we're here and ready to make a difference. Don't miss out on your chance to join the discussion. 

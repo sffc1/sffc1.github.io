@@ -1,6 +1,7 @@
 ---
 title: "#WearOrange for National Gun Violence Awareness Day"
 date: 2018-05-08 15:59:00 -05:00
+published: false
 categories:
 - event
 tags:
