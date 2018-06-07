@@ -17,3 +17,7 @@ is published: true
 Come and join Congresswoman Robin Kelly, Mayor Alsberry of Hazel Crest, and Mayor Ford of Country Club Hills for a town hall (Meet and Greet) with Candidate JB Pritzker on June 11, 2018, Hillcrest High School, 17401 Pulaski Road, Country Club Hills, IL.  5:00p.m. - 6:30 p.m.  
 
 This is an opportunity for Thornton Township residences to come out and meet Democratic Candidate for Governor JB Pritzker!
+
+Please RSVP to Jennifer@JBPritzker.com. 
+
+[https://www.jbpritzker.com/volunteer/](https://www.jbpritzker.com/volunteer/)
