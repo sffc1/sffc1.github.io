@@ -1,6 +1,6 @@
 ---
 title: Indivisible South Suburban Chicago Breakfast Meeting
-date: 2018-06-07 12:36:00 -05:00
+date: 2018-06-07 13:50:00 -05:00
 categories:
 - event
 tags:
