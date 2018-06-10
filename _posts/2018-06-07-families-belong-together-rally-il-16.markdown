@@ -1,17 +1,18 @@
 ---
 title: Families Belong Together Rally - IL-16
 date: 2018-06-07 14:12:00 -05:00
+published: false
 categories:
 - event
 tags:
 - protest
-is featured: true
+is featured: false
 main-image: "/uploads/34562281_10156466300900859_5379585905633787904_n.jpg"
 event-start-date: 2018-06-08 17:00:00 -05:00
 event-end-date: 2018-06-08 18:00:00 -05:00
 Location: Peace Corner at the corner of Rt 38 and 1st St DeKalb, IL
 RSVP-link: 'https://www.facebook.com/events/120071085478534/ '
-is published: true
+is published: false
 ---
 
 Republican Congressman Adam Kinzinger (R-IL16) has said that he is against the horrific Trump policy of separating children from their parents at the borders, but he has not signed on the sponsor a bill that would allow this issue to come before the Congressional House. And he still will not have a Town Hall to speak with the voters. 
