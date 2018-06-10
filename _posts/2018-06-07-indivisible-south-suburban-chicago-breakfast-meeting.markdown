@@ -1,18 +1,19 @@
 ---
 title: Indivisible South Suburban Chicago Breakfast Meeting
 date: 2018-06-07 13:50:00 -05:00
+published: false
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/resist-image.jpeg"
 event-start-date: 2018-06-09 09:30:00 -05:00
 event-end-date: 2018-06-09 11:00:00 -05:00
 Location: FRANKFORT PUBLIC LIBRARY DISTRICT, 21119 Pfeiffer Rd, Frankfort, Illinois
   60423
 RSVP-link: https://www.facebook.com/events/965405466960401/
-is published: true
+is published: false
 ---
 
 [https://www.facebook.com/events/965405466960401/](https://www.facebook.com/events/965405466960401/)
