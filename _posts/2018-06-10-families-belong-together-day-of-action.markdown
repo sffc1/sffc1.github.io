@@ -27,10 +27,10 @@ Where: ICE - Chicago Field Office
 Chicago, IL 60605
 
 To read more about this go to: 
-https://familiesbelongtogether.org
+[https://familiesbelongtogether.org](https://familiesbelongtogether.org)
 
 To Sign up for an event go to:
-https://familiesbelong.org
+[https://familiesbelong.org](https://familiesbelong.org)
 
 If you cannot attend a rally, **take action with us on June 14** by calling your representatives and telling them it’s time to end family separation.
 
