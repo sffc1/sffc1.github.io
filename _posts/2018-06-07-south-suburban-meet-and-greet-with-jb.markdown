@@ -1,5 +1,5 @@
 ---
-title: South Suburban Meet and Greet with JB
+title: CANCELLED - South Suburban Meet and Greet with JB
 date: 2018-06-07 14:00:00 -05:00
 categories:
 - event
