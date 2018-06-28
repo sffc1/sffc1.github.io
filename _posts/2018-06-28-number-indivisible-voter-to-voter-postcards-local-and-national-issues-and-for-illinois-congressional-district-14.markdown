@@ -12,6 +12,7 @@ event-start-date: 2018-06-30 15:00:00 -05:00
 event-end-date: 2018-06-30 16:30:00 -05:00
 Location: Grande Prairie Public Library, 3479 183rd St, Hazel Crest, IL  60429, United
   States
+RSVP-link: https://www.signupgenius.com/go/60b044caea628a6f85-postcards
 ---
 
 Send 20,000 Postcards to IL14 Voters
@@ -28,4 +29,4 @@ On the blank backside of the postcards volunteers will write nonpartisan message
 
 Indivisible - Illinois will deliver postcards, addresses, and instructions to hosts.  All we need are volunteers, stamps, pens, wine and snacks!  Ten people can write about 300 postcards during one party.  Indivisible - Illinois will arrange the drop off or delivery of the completed and addressed postcards from our group afterwards and get them in the mail this fall.
 
-If you'd like to attend our Strike Force For Change Summer postcard-writing parties, please sign up with the RSVP Link.  
+If you'd like to attend our Strike Force For Change Summer postcard-writing parties, please [sign up with the RSVP Link](https://www.signupgenius.com/go/60b044caea628a6f85-postcards).  
