@@ -1,6 +1,7 @@
 ---
 title: Take Action on Progress for Gun Safety in Illinois
 date: 2018-06-10 10:52:00 -05:00
+published: false
 categories:
 - action
 tags:
@@ -14,7 +15,7 @@ call-script-text: "Illegal Gun Trafficking bill (SB 337) and the Firearm Restrai
   by signing both of the bills: \nthe Illegal Gun Trafficking bill (SB 337) and the
   \nFirearm Restraining Order bill (SB 2354)\n\nThanks so much for talking to me!
   We will be sure to follow up with the Governor until he signs the bills.  \n"
-is published: true
+is published: false
 ---
 
 As you know, both the Illegal Gun Trafficking bill (SB 337) and the Firearm Restraining Order bill (SB 2354) passed in early June in the Illinois General Assembly. Now we need to drive calls to Governor Rauner's office to be sure he will sign the bills. Please take a minute to do this. His number is 312-814-2121. And you can call every day if you are able! Let's get these signed into law!
