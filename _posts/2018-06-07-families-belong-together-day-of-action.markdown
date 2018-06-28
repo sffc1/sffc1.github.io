@@ -1,18 +1,19 @@
 ---
 title: Families Belong Together - Day Of Action
 date: 2018-06-07 13:55:00 -05:00
+published: false
 categories:
 - event
 tags:
 - protest
-is featured: true
+is featured: false
 main-image: "/uploads/34562281_10156466300900859_5379585905633787904_n.jpg"
 event-start-date: 2018-06-14 12:00:00 -05:00
 event-end-date: 2018-06-14 13:00:00 -05:00
 Location: ICE - Chicago Field Office, 101 West Congress Parkway 4th Floor, Suite 4000,
   Chicago, IL 60605
 RSVP-link: https://familiesbelong.org
-is published: true
+is published: false
 ---
 
 **Protest Trump's Horrific and Inhumane Policy of Separating Children From Their Parents**
@@ -21,7 +22,7 @@ We need to raise our voices against they key actors who are carrying out Trumpâ€
 
 We're excited to be partnering with the National Domestic Workers Alliance, MomsRising, United We Dream, MoveOn and many others to hold family-friendly rallies across the country. Bring your friends, wheel your stroller on over, grab your lunch boxes, and make your family's voice heard loud and clear, that #FamiliesBelongTogether.
 
-When: Thursday, June 14, 12:00 PM
+When: Thursday, June 30, 12:00 PM
 Where: ICE - Chicago Field Office
 101 West Congress Parkway 4th Floor, Suite 4000
 Chicago, IL 60605
