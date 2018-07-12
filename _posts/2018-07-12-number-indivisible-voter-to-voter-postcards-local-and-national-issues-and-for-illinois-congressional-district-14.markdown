@@ -1,6 +1,6 @@
 ---
 title: "#INDIVISIBLE Voter To Voter Postcards - Postcards and Buona"
-date: 2018-06-28 15:03:00 -05:00
+date: 2018-07-12 15:03:00 -05:00
 categories:
 - event
 tags:
