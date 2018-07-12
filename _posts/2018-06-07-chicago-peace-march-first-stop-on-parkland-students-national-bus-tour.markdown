@@ -1,6 +1,7 @@
 ---
 title: Chicago Peace March first stop on Parkland student's national bus tour
 date: 2018-06-07 13:42:00 -05:00
+published: false
 categories:
 - event
 tags:
