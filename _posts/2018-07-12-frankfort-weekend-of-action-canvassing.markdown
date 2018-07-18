@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - protest
-is featured: true
+is featured: false
 main-image: "/uploads/MomsDemandAction-65ac60.jpeg"
 event-start-date: 2018-07-14 10:00:00 -05:00
 event-end-date: 2018-07-14 12:00:00 -05:00
