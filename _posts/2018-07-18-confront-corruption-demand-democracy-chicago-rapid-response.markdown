@@ -1,6 +1,7 @@
 ---
 title: CONFRONT CORRUPTION - DEMAND DEMOCRACY - CHICAGO - Rapid Response
 date: 2018-07-18 13:06:00 -05:00
+published: false
 categories:
 - event
 tags:
