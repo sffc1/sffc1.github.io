@@ -1,6 +1,7 @@
 ---
 title: Frankfort Weekend of Action Canvassing
 date: 2018-07-12 10:15:00 -05:00
+published: false
 categories:
 - event
 tags:
