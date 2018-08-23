@@ -1,6 +1,6 @@
 ---
 title: 'Unite For Justice - #StopKavanaugh'
-date: 2018-08-23 14:35:00 -05:00
+date: 2018-08-23 13:00:00 -05:00
 categories:
 - event
 tags:
