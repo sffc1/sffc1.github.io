@@ -36,3 +36,5 @@ A RealClearPolitics average of polls shows Democrats with a 6.6 point lead over 
 
 **Lyft's Ride To Vote Press Release**
 [https://blog.lyft.com/posts/2018/8/22/get-out-the-vote](https://blog.lyft.com/posts/2018/8/22/get-out-the-vote)
+
+This non-partisan effort to get people to the polls is only becoming more critical. Election officials in **one county in Georgia have proposed closing 7 of 9 polling places** because they’re not sufficiently accessible for handicapped voters. Having Lyft available to help those voters who would be impacted by the closures (some of whom would have to walk three hours to get to the nearest open polls) could certainly be a boon.
