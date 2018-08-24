@@ -5,7 +5,7 @@ categories:
 - update
 tags:
 - update
-main-image: "/uploads/WWAVLogoEM_20180806130226370151.jpg"
+main-image: "/uploads/cropped-Medium-sized-NVRD-logo-for-web.png"
 RSVP-link: https://blog.lyft.com/posts/2018/8/22/get-out-the-vote
 is published: true
 ---
