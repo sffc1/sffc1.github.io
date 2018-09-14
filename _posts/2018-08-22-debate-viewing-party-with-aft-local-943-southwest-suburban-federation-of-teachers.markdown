@@ -1,7 +1,7 @@
 ---
 title: Debate Viewing Party with AFT Local 943 - Southwest Suburban Federation Of
   Teachers
-date: 2018-09-13 19:50:00 -05:00
+date: 2018-08-22 19:50:00 -05:00
 categories:
 - event
 tags:
