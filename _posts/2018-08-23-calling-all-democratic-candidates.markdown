@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-is featured: false
+is featured: true
 main-image: "/uploads/IMG_0148.jpeg"
 event-start-date: 2018-10-13 10:00:00 -05:00
 event-end-date: 2018-10-13 12:00:00 -05:00
