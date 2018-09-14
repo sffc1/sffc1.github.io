@@ -1,6 +1,6 @@
 ---
 title: Calling All Democratic Candidates!
-date: 2018-08-23 19:19:00 -05:00
+date: 2018-08-01 19:19:00 -05:00
 categories:
 - event
 tags:
