@@ -5,7 +5,7 @@ categories:
 - update
 tags:
 - protest
-is featured: true
+is featured: false
 main-image: "/uploads/20170726_MoveOn_MuellerFiringRapidResponse_website_banner.png"
 RSVP-link: 'https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/ '
 is published: true
