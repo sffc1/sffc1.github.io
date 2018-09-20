@@ -5,7 +5,7 @@ categories:
 - update
 tags:
 - update
-is featured: true
+is featured: false
 main-image: "/uploads/StrikeForceLogo1st.jpg"
 is published: true
 ---
