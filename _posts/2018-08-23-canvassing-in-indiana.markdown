@@ -5,7 +5,7 @@ categories:
 - update
 tags:
 - update
-is featured: false
+is featured: true
 main-image: "/uploads/17200952_1463959110295277_7445017598579540913_n.png"
 ---
 
