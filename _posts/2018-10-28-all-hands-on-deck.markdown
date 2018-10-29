@@ -29,8 +29,8 @@ Hammond Campaign Office
 
 ### North Gary, Indiana Phone Bank - 
 Call to recruit Volunteers in Indiana.   
-Contact Gabe of the Gary, Indiana Headquarters at 1-203-247-2968 to join phone banks or canvass. Saturday, 11/3/18 9am; 12pm; 3pm; 6pm 
-Sunday, 11/4/18 9am; 12pm; 3pm; 6pm 
+Contact Gabe of the Gary, Indiana Headquarters at 1-203-247-2968 to join phone banks or canvass. Saturday, 11/3/18 9am; 12pm; 3pm; 6pm.  
+Sunday, 11/4/18 9am; 12pm; 3pm; 6pm.   
 487 Broadway, Gary, IN, 46402
 Or CLICK to sign up below:   
 11/3/18 - 
