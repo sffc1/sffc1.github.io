@@ -1,6 +1,7 @@
 ---
 title: DONATE to Strike Force For Change
 date: 2018-09-24 17:15:00 -05:00
+published: false
 categories:
 - action
 RSVP-link: https://secure.actblue.com/donate/indivisiblecss412603701#

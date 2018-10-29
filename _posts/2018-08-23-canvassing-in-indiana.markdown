@@ -1,11 +1,11 @@
 ---
-title: Canvassing in Indiana
+title: Canvassing in Indiana and Phone Banks to get Volunteers
 date: 2018-08-23 13:52:00 -05:00
 categories:
 - update
 tags:
 - update
-is featured: false
+is featured: true
 main-image: "/uploads/17200952_1463959110295277_7445017598579540913_n.png"
 ---
 
@@ -14,6 +14,8 @@ We can't expect to hold the Republicans and this administration responsible for 
 There are many groups doing canvassing in Northwest Indiana to get out the vote in general and for Senator Donnelly. 
 
 Below are some contacts and some links through which you and your fellow activists can sign up to canvass this weekend and beyond and help get out the vote for candidates that reflect our values up and down the ticket. 
+
+Contact Gabe of the Gary, Indiana Indivisible at 1-203-247-2968 to join phone banks. 
 
 Indivisible NWI (Northwest Indiana)
 [https://indivisiblenwi.org](https://indivisiblenwi.org)
