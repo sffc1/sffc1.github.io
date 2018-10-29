@@ -5,7 +5,7 @@ categories:
 - update
 tags:
 - update
-is featured: true
+is featured: false
 main-image: "/uploads/Screen-Shot-2017-04-08-at-2.52.39-PM.png"
 is published: true
 ---
