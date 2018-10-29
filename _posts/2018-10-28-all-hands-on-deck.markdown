@@ -23,7 +23,7 @@ Matteson, IL
 
 ### Call to Recruit Volunteers in Indiana - Monday with Margaret 
 Join Margaret of ISSC in making recruitment calls on Monday, 10/29/18 from 4:00-7:00 from the Hammond Indiana Campaign office. Respond to her on the ISSC Facebook page to get the address or sign up below.  
-Monday, 10/29/18 
+Monday, 10/29/18,  
 Hammond Campaign Office  
 [https://events.mobilizeamerica.io/indems/event/70903/](https://events.mobilizeamerica.io/indems/event/70903/) 
 
