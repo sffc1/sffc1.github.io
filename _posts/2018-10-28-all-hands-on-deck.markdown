@@ -14,8 +14,8 @@ OK, Activists. Time to take Action!  Below are some actions that you can take to
 
 ### Get Out the Vote for Illinois Democrats
 Talk to voters face-to-face about having a plan to vote; either early voting or on election day. 
-Saturday 9am; 12pm; 3pm
-Sunday 12pm; 3pm
+Saturday 9am; 12pm; 3pm.  
+Sunday 12pm; 3pm.  
 IEA Headquarters
 4747 Lincoln Mall Drive
 Unit #507
