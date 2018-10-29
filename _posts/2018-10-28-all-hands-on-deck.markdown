@@ -2,11 +2,12 @@
 title: All Hands On Deck!
 date: 2018-10-28 20:08:00 -05:00
 categories:
-- event
+- update
 tags:
 - update
 is featured: true
 main-image: "/uploads/resist-image.jpeg"
+is published: true
 ---
 
 OK, Activists. Time to take Action!  Below are some actions that you can take to Get Out The Vote and work to elect people who will truly hold Fake 45 accountable. 
