@@ -1,6 +1,7 @@
 ---
 title: Canvassing in Indiana and Phone Banks to get Volunteers
 date: 2018-08-23 13:52:00 -05:00
+published: false
 categories:
 - update
 tags:
