@@ -2,7 +2,7 @@
 title: All Hands On Deck!
 date: 2018-10-28 20:08:00 -05:00
 categories:
-- event
+- update
 tags:
 - update
 is featured: true
