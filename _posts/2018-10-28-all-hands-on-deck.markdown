@@ -43,11 +43,11 @@ Or CLICK to sign up below:
 [https://events.mobilizeamerica.io/indems/event/71232/](https://events.mobilizeamerica.io/indems/event/71232/)  
 
 ### Soul Food Phone Bank - this Thursday 6pm to 8:30pm
-Bring your own computer and download an app to talk to registered voters in Illinois and motivate them to Get Out the Vote for Democrats in Illinois. 
-Thursday, 11/1/18
-6pm to 8:30pm
-Dustie's Southern Buffet
-4012 Lincoln Highway
+Bring your own computer and download an app to talk to registered voters in Illinois and motivate them to Get Out the Vote for Democrats in Illinois.  
+Thursday, 11/1/18  
+6pm to 8:30pm  
+Dustie's Southern Buffet  
+4012 Lincoln Highway  
 Matteson, IL 
 
 ### MoveOn.org's Call Every Voter 
