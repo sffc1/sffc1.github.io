@@ -1,6 +1,7 @@
 ---
 title: Introducing the Strike Force For Change Fundraising Page
 date: 2018-06-15 12:26:00 -05:00
+published: false
 categories:
 - update
 tags:
