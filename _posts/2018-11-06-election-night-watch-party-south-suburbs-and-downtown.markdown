@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 is featured: true
-main-image: "/uploads/resist-image.jpeg"
+main-image: "/uploads/resize.php.jpeg"
 event-start-date: 2018-11-06 19:00:00 -06:00
 event-end-date: 2018-11-06 22:00:00 -06:00
 Location: Various Locations
