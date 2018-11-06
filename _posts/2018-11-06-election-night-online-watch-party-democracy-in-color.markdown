@@ -14,7 +14,7 @@ RSVP-link: https://www.facebook.com/democracyincolor/
 is published: true
 ---
 
-After two years of madness, meanness, misogyny, racism, and xenophobia, we finally get a chance to start to take our country back. All over the country, people are organizing, voting, and mobilizing, and tonight we will see the results.
+After two years of madness, meanness, misogyny, racism, and xenophobia, we finally get a chance to start to take our country back. All over the country, people are organizing, voting, and mobilizing, and tonight we will see the results. 
 
 All of us are obviously extraordinarily on edge about what the electoral outcomes will be tonight, and Democracy In Color would like to invite you to join us and the Democracy in Color team for our online election night coverage. We’ll be tracking and reporting results, as well as offering our analysis, in real-time via Facebook Live every hour tonight starting at **7:30 p.m. EST/4:30 pm PST.** I invite you to tune in and join us on [Democracy in Color’s Facebook.](https://www.facebook.com/democracyincolor/) Additionally, my team will be updating spreadsheets throughout the night with [up-to-date charts you can view here.](https://docs.google.com/presentation/d/1Vfk7_e_U7xc_ZZp-xfc_OQRCdWl0w1PeH42pgLndrKQ/edit#slide=id.g4693126d2d_1_6) 
  
