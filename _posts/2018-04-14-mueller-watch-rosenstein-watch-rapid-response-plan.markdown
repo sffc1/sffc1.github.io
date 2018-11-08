@@ -2,11 +2,13 @@
 title: Mueller Watch - Rosenstein Watch. Rapid Response Plan
 date: 2018-04-14 20:35:00 -05:00
 categories:
-- update
+- event
 tags:
 - protest
-is featured: false
+is featured: true
 main-image: "/uploads/20170726_MoveOn_MuellerFiringRapidResponse_website_banner.png"
+event-start-date: 2018-11-08 12:00:00 -06:00
+event-end-date: 2018-11-08 17:00:00 -06:00
 RSVP-link: 'https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/ '
 is published: true
 ---
