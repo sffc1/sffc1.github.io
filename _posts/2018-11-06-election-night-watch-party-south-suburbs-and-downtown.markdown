@@ -1,6 +1,7 @@
 ---
 title: Election Night Watch Party - South Suburbs and Downtown
 date: 2018-11-06 10:17:00 -06:00
+published: false
 categories:
 - event
 tags:
