@@ -7,11 +7,37 @@ tags:
 - protest
 is featured: true
 main-image: "/uploads/20170726_MoveOn_MuellerFiringRapidResponse_website_banner.png"
-event-start-date: 2018-11-08 12:00:00 -06:00
-event-end-date: 2018-11-08 17:00:00 -06:00
+event-start-date: 2018-11-08 17:00:00 -06:00
+event-end-date: 2018-11-08 21:00:00 -06:00
+Location: Federal Plaza, Chicago, IL
 RSVP-link: 'https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/ '
 is published: true
 ---
+
+## It's ON. Sign Up Below.  
+
+[Nobody Is Above The Law Rally](https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/)  
+Thursday, 11-8-18 
+5:00 PM 
+Federal Plaza  
+Chicago, IL 
+
+Donald Trump just crossed a red line, violating the independence of the investigation pursuing criminal charges in the Trump-Russia scandal and cover-up.
+
+Trump putting himself above the law is a threat to our democracy, and we’ve got to get Congress to stop him.
+
+We're mobilizing immediately to demand accountability, because Trump is not above the law.
+
+Please make note of the date, time, and description below to confirm that the host is able to organize the event on such short notice! 
+
+Once you sign up, make sure to invite friends to join you at the event!
+
+Note: If you choose to attend an event, you agree to engage in nonviolent, peaceful action, to act lawfully, and to strive to de-escalate any potential confrontations with those who may disagree with our values.
+
+The Rally is on! Join us at Federal Plaza on Thursday, Nov 8th at 5pm to demand protection for the Mueller investigation. Let us know you are going on Facebook and please share [https://www.facebook.com/events/1807428685983766/](https://www.facebook.com/events/1807428685983766/)
+
+
+=========================================
 
 **MoveOn.Org** has had a plan in place in the event that Cheeto 45 fires Rosenstein or Mueller.  I listed the plan below, but you can also go to [https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/](https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/)
 
@@ -30,10 +56,6 @@ Firing Mueller
 Pardons of key witnesses
 Actions that would prevent the investigation from being conducted freely, such as replacing Deputy Attorney General Rod Rosenstein, Mueller’s current supervisor, or repealing the regulations establishing the office
 
-** The firing of Attorney General Jeff Sessions would be one step short of the break glass moment. We would not trigger events, but we would respond by growing the rapid-response list and demanding that any new AG protect the investigation and that Congress pass the Mueller protection legislation. * *
-
- 
-
 ### WHERE AND WHEN
 
 Here’s the plan for when we would call for protests:
@@ -46,7 +68,6 @@ If actions are triggered AFTER 2 p.m. local time —> events will begin @ noon l
 
 ** This is the general plan—please confirm details on your event page, as individual hosts may tailor their events to their local plan.* *
 
- 
 
 ### THEN WHAT?
 
