@@ -16,8 +16,7 @@ is published: true
 
 ## It's ON. Sign Up Below.  
 
-[Nobody Is Above The Law Rally](https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/)  
-
+[Nobody Is Above The Law Rally](https://www.trumpisnotabovethelaw.org/event/mueller-firing-rapid-response/13278/signup/?akid=undefined&zip=&source=&s=)
 Thursday, 11-8-18 
 5:00 PM  
 Federal Plaza  
