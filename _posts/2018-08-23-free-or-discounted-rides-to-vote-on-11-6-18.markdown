@@ -1,6 +1,7 @@
 ---
 title: Free or Discounted Rides To Vote on 11-6-18
 date: 2018-08-23 12:00:00 -05:00
+published: false
 categories:
 - update
 tags:
