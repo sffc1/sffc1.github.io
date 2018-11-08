@@ -29,7 +29,7 @@ Trump putting himself above the law is a threat to our democracy, and we’ve go
 
 We're mobilizing immediately to demand accountability, because Trump is not above the law.
 
-Please make note of the date, time, and description below to confirm that the host is able to organize the event on such short notice! 
+Please make note of the date, time, and description at the link above to confirm that the host is able to organize the event on such short notice! 
 
 Once you sign up, make sure to invite friends to join you at the event!
 
@@ -100,4 +100,4 @@ Demand bipartisan hearings in the House Judiciary Committee on obstruction of ju
 
 Some groups will call these the first steps to impeachment hearings; others will not.
 
-Impeaching Donald Trump is not a demand shared by all partner organizations. Nor is supporting impeachment a prerequisite to attend these events. But it is a view welcome at events, and you can definitely bring a poster calling for it if that’s your view. We can all be for the three things above if some of us are also for additional things, such as impeachment.
+Impeaching Donald Trump is not a demand shared by all partner organizations. Nor is supporting impeachment a prerequisite to attend these events. But you can definitely bring a poster calling for it - if that’s your view. 
