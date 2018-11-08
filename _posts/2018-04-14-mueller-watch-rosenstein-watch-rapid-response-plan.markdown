@@ -7,8 +7,9 @@ tags:
 - protest
 is featured: true
 main-image: "/uploads/20170726_MoveOn_MuellerFiringRapidResponse_website_banner.png"
-event-start-date: 2018-11-08 12:00:00 -06:00
-event-end-date: 2018-11-08 17:00:00 -06:00
+event-start-date: 2018-11-08 17:00:00 -06:00
+event-end-date: 2018-11-08 21:00:00 -06:00
+Location: Federal Plaza, Chicago, IL
 RSVP-link: 'https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/ '
 is published: true
 ---
