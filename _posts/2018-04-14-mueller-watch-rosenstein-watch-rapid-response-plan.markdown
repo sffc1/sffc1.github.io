@@ -17,8 +17,9 @@ is published: true
 ## It's ON. Sign Up Below.  
 
 [Nobody Is Above The Law Rally](https://www.trumpisnotabovethelaw.org/survey/mueller-firing-rapid-response-plan/)  
+
 Thursday, 11-8-18 
-5:00 PM 
+5:00 PM  
 Federal Plaza  
 Chicago, IL 
 
